@@ -1,0 +1,25 @@
+slice_id,target,shot,method,method_label,feature_set,feature_count,cities_count,positive_city_count,negative_city_count,positive_negative_cities,negative_r2_ratio,mean_r2,mean_rmse,mean_mae,mean_eval_count
+scale122,intersection_nodes,0,coord_metadata_pooled_ridge,Coordinate+metadata pooled ridge,coord_metadata,15,118,0,118,0/118,1.0,-1.9141601369132586,17.021052957102153,13.574623941030085,70.83898305084746
+scale122,intersection_nodes,0,coord_metadata_source_ridge,Coordinate+metadata ridge,coord_metadata,15,118,0,118,0/118,1.0,-1.9141601369132586,17.021052957102153,13.574623941030085,70.83898305084746
+scale122,intersection_nodes,0,coordinate_only_pooled_ridge,Coordinate-only pooled ridge,coordinate_only,2,118,0,118,0/118,1.0,-6.133938233483562,19.163753514275133,15.762783190755387,70.83898305084746
+scale122,intersection_nodes,0,coordinate_only_source_ridge,Coordinate-only ridge,coordinate_only,2,118,0,118,0/118,1.0,-6.133938233483562,19.163753514275133,15.762783190755387,70.83898305084746
+scale122,intersection_nodes,0,metadata_only_pooled_ridge,City-metadata pooled ridge,metadata_only,13,118,0,118,0/118,1.0,-1.7041375467206716,16.82069411536177,13.423401448482823,70.83898305084746
+scale122,intersection_nodes,0,metadata_only_source_ridge,City-metadata ridge,metadata_only,13,118,0,118,0/118,1.0,-1.7041375467206716,16.82069411536177,13.423401448482823,70.83898305084746
+scale122,intersection_nodes,10,coord_metadata_pooled_ridge,Coordinate+metadata pooled ridge,coord_metadata,15,118,0,118,0/118,1.0,-2.9851603482261284,16.83659059989872,13.507347300085762,60.83898305084746
+scale122,intersection_nodes,10,coord_metadata_source_ridge,Coordinate+metadata ridge,coord_metadata,15,118,0,118,0/118,1.0,-3.102560610233954,16.955326283160037,13.605444101427013,60.83898305084746
+scale122,intersection_nodes,10,coordinate_only_pooled_ridge,Coordinate-only pooled ridge,coordinate_only,2,118,0,118,0/118,1.0,-8.903071104186365,19.149506291827617,15.821264528963988,60.83898305084746
+scale122,intersection_nodes,10,coordinate_only_source_ridge,Coordinate-only ridge,coordinate_only,2,118,0,118,0/118,1.0,-8.941084979461348,19.174960470609165,15.84570501337902,60.83898305084746
+scale122,intersection_nodes,10,metadata_only_pooled_ridge,City-metadata pooled ridge,metadata_only,13,118,0,118,0/118,1.0,-2.7575673168119534,16.6599631984979,13.363668935426611,60.83898305084746
+scale122,intersection_nodes,10,metadata_only_source_ridge,City-metadata ridge,metadata_only,13,118,0,118,0/118,1.0,-2.8597216468848488,16.748995240513217,13.445074173621972,60.83898305084746
+scale122,road_segments,0,coord_metadata_pooled_ridge,Coordinate+metadata pooled ridge,coord_metadata,15,118,1,117,1/117,0.9915254237288136,-1.1873978594446264,356.17470383909625,283.2083407846646,70.83898305084746
+scale122,road_segments,0,coord_metadata_source_ridge,Coordinate+metadata ridge,coord_metadata,15,118,1,117,1/117,0.9915254237288136,-1.1873978594446264,356.17470383909625,283.2083407846646,70.83898305084746
+scale122,road_segments,0,coordinate_only_pooled_ridge,Coordinate-only pooled ridge,coordinate_only,2,118,0,118,0/118,1.0,-2.100838606559586,386.8204862671378,318.80462070991365,70.83898305084746
+scale122,road_segments,0,coordinate_only_source_ridge,Coordinate-only ridge,coordinate_only,2,118,0,118,0/118,1.0,-2.100838606559586,386.8204862671378,318.80462070991365,70.83898305084746
+scale122,road_segments,0,metadata_only_pooled_ridge,City-metadata pooled ridge,metadata_only,13,118,0,118,0/118,1.0,-1.2433962166980703,357.7020334848844,285.05598736626604,70.83898305084746
+scale122,road_segments,0,metadata_only_source_ridge,City-metadata ridge,metadata_only,13,118,0,118,0/118,1.0,-1.2433962166980703,357.7020334848844,285.05598736626604,70.83898305084746
+scale122,road_segments,10,coord_metadata_pooled_ridge,Coordinate+metadata pooled ridge,coord_metadata,15,118,0,118,0/118,1.0,-1.4251040107838668,353.41473797614265,282.58055186018424,60.83898305084746
+scale122,road_segments,10,coord_metadata_source_ridge,Coordinate+metadata ridge,coord_metadata,15,118,0,118,0/118,1.0,-1.4953638650793257,356.4874553737526,285.1377118801659,60.83898305084746
+scale122,road_segments,10,coordinate_only_pooled_ridge,Coordinate-only pooled ridge,coordinate_only,2,118,0,118,0/118,1.0,-2.5475642518505026,387.21645839953726,320.36929867630556,60.83898305084746
+scale122,road_segments,10,coordinate_only_source_ridge,Coordinate-only ridge,coordinate_only,2,118,0,118,0/118,1.0,-2.5624393383997077,387.93664479677415,321.0689234398528,60.83898305084746
+scale122,road_segments,10,metadata_only_pooled_ridge,City-metadata pooled ridge,metadata_only,13,118,0,118,0/118,1.0,-1.5012759854697881,355.53431625594163,284.56732222318396,60.83898305084746
+scale122,road_segments,10,metadata_only_source_ridge,City-metadata ridge,metadata_only,13,118,0,118,0/118,1.0,-1.5680869632486896,357.9953399353844,286.77055442081553,60.83898305084746

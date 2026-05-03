@@ -1,0 +1,26 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Scale-122 full benchmark stress test at $k=10$. Standard baselines remain weak under strict city isolation.}
+\label{tab:scale122-stress-baseline}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllll}
+\toprule
+Target & Baseline & Cities & $R^2$ & RMSE & MAE & Neg. $R^2$ & +/- cities \\
+\midrule
+Connectivity & Tabular kNN & 118 & 0.101 & 9.781 & 6.482 & 0.254 & 88/30 \\
+Connectivity & Target-only ridge & 118 & -0.127 & 10.430 & 7.171 & 0.288 & 84/34 \\
+Connectivity & Importance-weighted ridge & 118 & -0.888 & 11.099 & 7.809 & 0.381 & 73/45 \\
+Connectivity & Pooled ridge & 118 & -2.101 & 12.584 & 9.042 & 0.568 & 51/67 \\
+Connectivity & Source-only ridge & 118 & -2.115 & 12.607 & 9.062 & 0.568 & 51/67 \\
+Connectivity & CORAL ridge & 118 & -27.324 & 20.255 & 14.978 & 0.737 & 31/87 \\
+Road & Target-only ridge & 118 & 0.137 & 228.799 & 165.353 & 0.271 & 86/32 \\
+Road & Importance-weighted ridge & 118 & 0.054 & 221.128 & 163.621 & 0.305 & 82/36 \\
+Road & Tabular kNN & 118 & -0.015 & 238.308 & 167.927 & 0.331 & 79/39 \\
+Road & Pooled ridge & 118 & -0.201 & 236.145 & 176.962 & 0.381 & 73/45 \\
+Road & Source-only ridge & 118 & -0.207 & 236.551 & 177.326 & 0.381 & 73/45 \\
+Road & CORAL ridge & 118 & -4.748 & 373.013 & 294.036 & 0.720 & 33/85 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

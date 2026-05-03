@@ -1,0 +1,119 @@
+city,country,legacy_city,region,population,source_kind,source_path,target_file,read_state,status,needs_redownload,roads,buildings,pois,landuse,element_count,is_audited9,is_structural43,is_heldout17
+Algiers,Algeria,Algiers,Africa,2768000,reuse_96_json,not_released,data\osm_raw_122\Algiers_Algeria.json,ok,realish,False,55741,342859,14751,7975,2804058,False,False,False
+Luanda,Angola,Luanda,Africa,8330000,reuse_96_json,not_released,data\osm_raw_122\Luanda_Angola.json,ok,realish,False,73194,38644,7375,2118,774274,False,False,False
+Abidjan,Côte d'Ivoire,Abidjan,Africa,4707000,reuse_96_json,not_released,data\osm_raw_122\Abidjan_Côte_d'Ivoire.json,ok,realish,False,48885,395643,34964,4025,2623539,False,False,False
+Kinshasa,DR Congo,Kinshasa,Africa,14342000,reuse_96_json,not_released,data\osm_raw_122\Kinshasa_DR_Congo.json,ok,realish,False,42271,663700,7478,2032,3917562,False,False,False
+Cairo,Egypt,Cairo,Africa,20900000,reuse_96_json,not_released,data\osm_raw_122\Cairo_Egypt.json,ok,realish,False,191667,68190,7702,6632,1831951,False,True,True
+Addis Ababa,Ethiopia,AddisAbaba,Africa,3041000,legacy43_xml_bridge,not_released,data\osm_raw_122\Addis_Ababa_Ethiopia.json,ok,realish,False,500,372,50,30,13605,False,True,False
+Accra,Ghana,Accra,Africa,2291000,reuse_96_json,not_released,data\osm_raw_122\Accra_Ghana.json,ok,realish,False,79263,538239,16287,1331,3906267,False,True,True
+Nairobi,Kenya,Nairobi,Africa,4397000,reuse_96_json,not_released,data\osm_raw_122\Nairobi_Kenya.json,ok,realish,False,74776,592100,20575,2495,4386752,False,True,True
+Casablanca,Morocco,Casablanca,Africa,3752000,reuse_96_json,not_released,data\osm_raw_122\Casablanca_Morocco.json,ok,realish,False,58590,47826,5864,2810,806801,False,False,False
+Maputo,Mozambique,Maputo,Africa,1101000,reuse_96_json,not_released,data\osm_raw_122\Maputo_Mozambique.json,ok,realish,False,48029,437309,4040,1558,2996645,False,False,False
+Lagos,Nigeria,Lagos,Africa,14862000,reuse_96_json,not_released,data\osm_raw_122\Lagos_Nigeria.json,ok,realish,False,70136,1243850,2728,1842,7379757,False,True,True
+Dakar,Senegal,Dakar,Africa,1146000,reuse_96_json,not_released,data\osm_raw_122\Dakar_Senegal.json,ok,realish,False,36728,91753,9810,1002,780313,False,False,False
+Cape Town,South Africa,CapeTown,Africa,4618000,reuse_96_json,not_released,data\osm_raw_122\Cape_Town_South_Africa.json,ok,realish,False,117802,128422,9141,4907,1965333,False,True,True
+Johannesburg,South Africa,Johannesburg,Africa,5635000,reuse_96_json,not_released,data\osm_raw_122\Johannesburg_South_Africa.json,ok,realish,False,130299,47052,8177,2571,1346883,False,True,True
+Khartoum,Sudan,Khartoum,Africa,5274000,reuse_96_json,not_released,data\osm_raw_122\Khartoum_Sudan.json,ok,realish,False,74352,657163,7111,1498,4344806,False,False,False
+Tunis,Tunisia,Tunis,Africa,1056000,reuse_96_json,not_released,data\osm_raw_122\Tunis_Tunisia.json,ok,realish,False,59351,80661,9003,5155,930166,False,False,False
+Kampala,Uganda,Kampala,Africa,1507000,reuse_96_json,not_released,data\osm_raw_122\Kampala_Uganda.json,ok,realish,False,63111,1059263,19669,10385,6774104,False,False,False
+Beijing,China,Beijing,East Asia,21540000,legacy43_xml_bridge,not_released,data\osm_raw_122\Beijing_China.json,ok,realish,False,499,319,67,97,12629,True,True,False
+Changchun,China,Changchun,East Asia,7677000,reuse_96_json,not_released,data\osm_raw_122\Changchun_China.json,ok,realish,False,20622,11499,935,3382,265294,False,False,False
+Changsha,China,Changsha,East Asia,8154000,reuse_96_json,not_released,data\osm_raw_122\Changsha_China.json,ok,realish,False,23271,30090,2376,9075,573916,False,False,False
+Chengdu,China,Chengdu,East Asia,16045000,reuse_96_json,not_released,data\osm_raw_122\Chengdu_China.json,ok,realish,False,46229,74071,9297,8601,935757,False,False,False
+Dalian,China,Dalian,East Asia,6690000,reuse_96_json,not_released,data\osm_raw_122\Dalian_China.json,ok,realish,False,18216,22808,1099,1146,299262,False,False,False
+Dongguan,China,Dongguan,East Asia,8342000,reuse_96_json,not_released,data\osm_raw_122\Dongguan_China.json,ok,realish,False,27430,11264,561,1938,320637,False,False,False
+Harbin,China,Harbin,East Asia,10635000,reuse_96_json,not_released,data\osm_raw_122\Harbin_China.json,ok,realish,False,16700,23563,1222,5523,335477,False,False,False
+Hefei,China,Hefei,East Asia,8189000,reuse_96_json,not_released,data\osm_raw_122\Hefei_China.json,ok,realish,False,21343,8774,1041,8206,281633,False,False,False
+HongKong,China,HongKong,East Asia,7498000,legacy43_xml_bridge,not_released,data\osm_raw_122\HongKong_China.json,ok,realish,False,750,253,163,52,22805,True,True,False
+Kunming,China,Kunming,East Asia,6850000,reuse_96_json,not_released,data\osm_raw_122\Kunming_China.json,ok,realish,False,37628,10678,5201,5412,529600,False,False,False
+Lanzhou,China,Lanzhou,East Asia,3616000,reuse_96_json,not_released,data\osm_raw_122\Lanzhou_China.json,ok,realish,False,21150,30683,2919,2988,422618,False,False,False
+Lhasa,China,Lhasa,East Asia,559000,reuse_96_json,not_released,data\osm_raw_122\Lhasa_China.json,ok,realish,False,4661,3760,189,681,79072,False,False,False
+Shanghai,China,Shanghai,East Asia,27058000,legacy43_xml_bridge,not_released,data\osm_raw_122\Shanghai_China.json,ok,realish,False,659,624,143,143,19373,True,True,False
+Shenyang,China,Shenyang,East Asia,8294000,reuse_96_json,not_released,data\osm_raw_122\Shenyang_China.json,ok,realish,False,15757,8152,1123,4769,209919,False,False,False
+Shijiazhuang,China,Shijiazhuang,East Asia,10784000,reuse_96_json,not_released,data\osm_raw_122\Shijiazhuang_China.json,ok,realish,False,13718,5198,565,1893,161434,False,False,False
+Suzhou,China,Suzhou,East Asia,10721000,reuse_96_json,not_released,data\osm_raw_122\Suzhou_China.json,ok,realish,False,38279,33430,1772,7260,559637,False,False,False
+Taiyuan,China,Taiyuan,East Asia,4201000,reuse_96_json,not_released,data\osm_raw_122\Taiyuan_China.json,ok,realish,False,19317,8972,806,1307,241122,False,False,False
+Urumqi,China,Urumqi,East Asia,3500000,reuse_96_json,not_released,data\osm_raw_122\Urumqi_China.json,ok,realish,False,12158,21130,733,2130,233460,False,False,False
+Xi'an,China,Xi'an,East Asia,12005000,reuse_96_json,not_released,data\osm_raw_122\Xi'an_China.json,ok,realish,False,32710,132817,3882,18156,2083506,False,False,False
+Tokyo,Japan,Tokyo,East Asia,13960000,legacy43_xml_bridge,not_released,data\osm_raw_122\Tokyo_Japan.json,ok,realish,False,1786,5551,519,51,62680,True,True,True
+Busan,South Korea,Busan,East Asia,3414000,reuse_96_json,not_released,data\osm_raw_122\Busan_South_Korea.json,ok,realish,False,53218,46991,11162,3472,792591,False,False,False
+Seoul,South Korea,Seoul,East Asia,9776000,legacy43_xml_bridge,not_released,data\osm_raw_122\Seoul_South_Korea.json,ok,realish,False,855,1929,673,68,35783,True,True,True
+Vienna,Austria,Vienna,Europe,1911000,reuse_96_json,not_released,data\osm_raw_122\Vienna_Austria.json,ok,realish,False,211841,404456,88632,42939,4686207,False,True,False
+Brussels,Belgium,Brussels,Europe,1209000,reuse_96_json,not_released,data\osm_raw_122\Brussels_Belgium.json,ok,realish,False,222408,811640,62354,62358,7482842,False,False,False
+Prague,Czech Republic,Prague,Europe,1309000,reuse_96_json,not_released,data\osm_raw_122\Prague_Czech_Republic.json,ok,realish,False,218030,348132,62276,41577,4810612,False,False,False
+Copenhagen,Denmark,Copenhagen,Europe,799000,reuse_96_json,not_released,data\osm_raw_122\Copenhagen_Denmark.json,ok,realish,False,155589,368158,32514,12854,4100383,False,False,False
+Helsinki,Finland,Helsinki,Europe,656000,reuse_96_json,not_released,data\osm_raw_122\Helsinki_Finland.json,ok,realish,False,298902,181873,38405,50298,3934545,False,False,False
+Paris,France,Paris,Europe,2161000,legacy43_xml_bridge,not_released,data\osm_raw_122\Paris_France.json,ok,realish,False,3075,5424,2436,247,106135,True,True,True
+Berlin,Germany,Berlin,Europe,3671000,legacy43_xml_bridge,not_released,data\osm_raw_122\Berlin_Germany.json,ok,realish,False,1854,1794,707,224,45940,False,True,False
+Budapest,Hungary,Budapest,Europe,1752000,reuse_96_json,not_released,data\osm_raw_122\Budapest_Hungary.json,ok,realish,False,175402,478849,71559,14139,4393855,False,False,False
+Dublin,Ireland,Dublin,Europe,555000,reuse_96_json,not_released,data\osm_raw_122\Dublin_Ireland.json,ok,realish,False,210804,594883,28431,35347,4922367,False,False,False
+Rome,Italy,Rome,Europe,2748000,legacy43_xml_bridge,not_released,data\osm_raw_122\Rome_Italy.json,ok,realish,False,1943,1063,605,150,46820,False,True,False
+Amsterdam,Netherlands,Amsterdam,Europe,921402,legacy43_xml_bridge,not_released,data\osm_raw_122\Amsterdam_Netherlands.json,ok,realish,False,1115,2493,438,425,68083,False,True,False
+Lisbon,Portugal,Lisbon,Europe,505000,reuse_96_json,not_released,data\osm_raw_122\Lisbon_Portugal.json,ok,realish,False,170222,321558,43889,25857,3466322,False,False,False
+Barcelona,Spain,Barcelona,Europe,1636000,reuse_96_json,not_released,data\osm_raw_122\Barcelona_Spain.json,ok,realish,False,212979,192809,68904,18301,3214300,False,False,False
+Madrid,Spain,Madrid,Europe,3223000,legacy43_xml_bridge,not_released,data\osm_raw_122\Madrid_Spain.json,ok,realish,False,1591,881,369,160,34532,False,True,False
+Zurich,Switzerland,Zurich,Europe,421000,reuse_96_json,not_released,data\osm_raw_122\Zurich_Switzerland.json,ok,realish,False,297719,320573,74840,27057,4545693,False,False,False
+London,UK,London,Europe,9648000,legacy43_xml_bridge,not_released,data\osm_raw_122\London_UK.json,ok,realish,False,761,2020,136,155,30539,True,True,False
+Baghdad,Iraq,Baghdad,Middle East,7216000,reuse_96_json,not_released,data\osm_raw_122\Baghdad_Iraq.json,ok,realish,False,72228,41087,19884,5295,745315,False,False,False
+Kuwait City,Kuwait,KuwaitCity,Middle East,3052000,reuse_96_json,not_released,data\osm_raw_122\Kuwait_City_Kuwait.json,ok,realish,False,59944,111535,7583,390,1038926,False,False,False
+Beirut,Lebanon,Beirut,Middle East,361000,reuse_96_json,not_released,data\osm_raw_122\Beirut_Lebanon.json,ok,realish,False,37354,177410,7215,1253,1715060,False,False,False
+Doha,Qatar,Doha,Middle East,641000,reuse_96_json,not_released,data\osm_raw_122\Doha_Qatar.json,ok,realish,False,105669,171970,7851,5259,1836678,False,False,False
+Jeddah,Saudi Arabia,Jeddah,Middle East,4078000,reuse_96_json,not_released,data\osm_raw_122\Jeddah_Saudi_Arabia.json,ok,realish,False,37316,24372,3965,640,351088,False,False,False
+Riyadh,Saudi Arabia,Riyadh,Middle East,7676000,reuse_96_json,not_released,data\osm_raw_122\Riyadh_Saudi_Arabia.json,ok,realish,False,89951,85454,6642,3607,939388,False,True,False
+Istanbul,Turkey,Istanbul,Middle East,15462000,legacy43_xml_bridge,not_released,data\osm_raw_122\Istanbul_Turkey.json,ok,realish,False,849,2054,350,92,27308,False,True,False
+Abu Dhabi,UAE,AbuDhabi,Middle East,1483000,reuse_96_json,not_released,data\osm_raw_122\Abu_Dhabi_UAE.json,ok,realish,False,55719,65972,12997,4390,891912,False,False,False
+Dubai,UAE,Dubai,Middle East,3411000,legacy43_xml_bridge,not_released,data\osm_raw_122\Dubai_UAE.json,ok,realish,False,1065,1236,283,109,35026,False,True,True
+Montreal,Canada,Montreal,North America,1780000,reuse_96_json,not_released,data\osm_raw_122\Montreal_Canada.json,ok,realish,False,433884,480143,53450,20516,5964237,False,False,False
+Toronto,Canada,Toronto,North America,2930000,reuse_96_json,not_released,data\osm_raw_122\Toronto_Canada.json,ok,realish,False,243439,491456,63844,23448,6375860,False,True,True
+Vancouver,Canada,Vancouver,North America,675000,reuse_96_json,not_released,data\osm_raw_122\Vancouver_Canada.json,ok,realish,False,195379,324375,36259,15833,3781136,False,True,False
+MexicoCity,Mexico,MexicoCity,North America,9209000,legacy43_xml_bridge,not_released,data\osm_raw_122\MexicoCity_Mexico.json,ok,realish,False,1802,1494,420,110,31277,False,True,False
+Atlanta,USA,Atlanta,North America,498000,reuse_96_json,not_released,data\osm_raw_122\Atlanta_USA.json,ok,realish,False,248746,455881,13233,5377,4854658,False,False,False
+Chicago,USA,Chicago,North America,2665000,legacy43_xml_bridge,not_released,data\osm_raw_122\Chicago_USA.json,ok,realish,False,2207,4386,323,159,51144,False,True,True
+Dallas,USA,Dallas,North America,1304000,reuse_96_json,not_released,data\osm_raw_122\Dallas_USA.json,ok,realish,False,257499,515100,16362,13345,6137207,False,False,False
+Detroit,USA,Detroit,North America,670000,reuse_96_json,not_released,data\osm_raw_122\Detroit_USA.json,ok,realish,False,278111,702718,17741,26512,6127013,False,False,False
+Houston,USA,Houston,North America,2304000,reuse_96_json,not_released,data\osm_raw_122\Houston_USA.json,ok,realish,False,248010,515811,18936,11109,4778027,False,False,False
+LosAngeles,USA,LosAngeles,North America,3821000,legacy43_xml_bridge,not_released,data\osm_raw_122\LosAngeles_USA.json,ok,realish,False,1228,7827,61,70,105121,False,True,False
+Miami,USA,Miami,North America,467000,reuse_96_json,not_released,data\osm_raw_122\Miami_USA.json,ok,realish,False,210833,378598,11979,5076,5056859,False,False,False
+NewYork,USA,NewYork,North America,8337000,legacy43_xml_bridge,not_released,data\osm_raw_122\NewYork_USA.json,ok,realish,False,1538,5160,163,73,56114,True,True,True
+Phoenix,USA,Phoenix,North America,1660000,reuse_96_json,not_released,data\osm_raw_122\Phoenix_USA.json,ok,realish,False,322001,618224,46578,14414,6832989,False,False,False
+San Diego,USA,SanDiego,North America,1423000,reuse_96_json,not_released,data\osm_raw_122\San_Diego_USA.json,ok,realish,False,239788,269230,15113,5584,4101759,False,False,False
+Adelaide,Australia,Adelaide,Oceania,1346000,reuse_96_json,not_released,data\osm_raw_122\Adelaide_Australia.json,ok,realish,False,121892,202231,16241,5912,2385518,False,False,False
+Perth,Australia,Perth,Oceania,2125000,reuse_96_json,not_released,data\osm_raw_122\Perth_Australia.json,ok,realish,False,179150,210136,20961,7704,2956191,False,False,False
+Auckland,New Zealand,Auckland,Oceania,1657000,reuse_96_json,not_released,data\osm_raw_122\Auckland_New_Zealand.json,ok,realish,False,188401,509732,24536,24620,6017930,False,False,False
+Wellington,New Zealand,Wellington,Oceania,215000,reuse_96_json,not_released,data\osm_raw_122\Wellington_New_Zealand.json,ok,realish,False,47654,166131,7911,7128,2078925,False,False,False
+Buenos Aires,Argentina,BuenosAires,South America,3075000,reuse_96_json,not_released,data\osm_raw_122\Buenos_Aires_Argentina.json,ok,realish,False,105650,98738,59766,12313,1249440,False,True,False
+La Paz,Bolivia,LaPaz,South America,789000,reuse_96_json,not_released,data\osm_raw_122\La_Paz_Bolivia.json,ok,realish,False,72620,30703,14985,4251,726328,False,False,False
+Brasília,Brazil,Brasília,South America,3055000,reuse_96_json,not_released,data\osm_raw_122\Brasília_Brazil.json,ok,realish,False,88508,224781,11030,7070,2979181,False,False,False
+Rio de Janeiro,Brazil,RioDeJaneiro,South America,6748000,legacy43_xml_bridge,not_released,data\osm_raw_122\Rio_de_Janeiro_Brazil.json,ok,realish,False,616,337,263,102,28258,False,True,True
+SaoPaulo,Brazil,SaoPaulo,South America,12300000,legacy43_xml_bridge,not_released,data\osm_raw_122\SaoPaulo_Brazil.json,ok,realish,False,1560,9386,373,80,90122,False,True,False
+Santiago,Chile,Santiago,South America,5614000,legacy43_xml_bridge,not_released,data\osm_raw_122\Santiago_Chile.json,ok,realish,False,1558,1788,164,138,38655,False,True,False
+Bogota,Colombia,Bogota,South America,7413000,legacy43_xml_bridge,not_released,data\osm_raw_122\Bogota_Colombia.json,ok,realish,False,1494,433,378,248,22605,False,True,False
+Bogotá,Colombia,Bogotá,South America,7413000,reuse_96_json,not_released,data\osm_raw_122\Bogotá_Colombia.json,ok,realish,False,147883,120129,42390,17230,1629434,False,False,False
+Cali,Colombia,Cali,South America,2228000,reuse_96_json,not_released,data\osm_raw_122\Cali_Colombia.json,ok,realish,False,57067,11842,4478,1057,444471,False,False,False
+Guayaquil,Ecuador,Guayaquil,South America,2698000,reuse_96_json,not_released,data\osm_raw_122\Guayaquil_Ecuador.json,ok,realish,False,52957,44158,13232,2140,553770,False,False,False
+Quito,Ecuador,Quito,South America,1763000,reuse_96_json,not_released,data\osm_raw_122\Quito_Ecuador.json,ok,realish,False,98228,166321,32543,2742,1653143,False,False,False
+Asunción,Paraguay,Asunción,South America,525000,reuse_96_json,not_released,data\osm_raw_122\Asunción_Paraguay.json,ok,realish,False,62101,660270,12440,11907,4210484,False,False,False
+Lima,Peru,Lima,South America,9750000,reuse_96_json,not_released,data\osm_raw_122\Lima_Peru.json,ok,realish,False,180311,138035,42677,11737,1869855,False,True,False
+Caracas,Venezuela,Caracas,South America,2935000,reuse_96_json,not_released,data\osm_raw_122\Caracas_Venezuela.json,ok,realish,False,37961,42085,9137,1036,673126,False,False,False
+Dhaka,Bangladesh,Dhaka,South Asia,21006000,reuse_96_json,not_released,data\osm_raw_122\Dhaka_Bangladesh.json,ok,realish,False,49785,1224827,29137,2052,6834561,False,False,False
+Bangalore,India,Bangalore,South Asia,12765000,reuse_96_json,not_released,data\osm_raw_122\Bangalore_India.json,ok,realish,False,211563,772289,33348,19649,5253530,False,False,False
+Bengaluru,India,Bengaluru,South Asia,12765000,legacy43_xml_bridge,not_released,data\osm_raw_122\Bengaluru_India.json,ok,realish,False,1863,9984,379,236,73384,False,True,False
+Chennai,India,Chennai,South Asia,10971000,reuse_96_json,not_released,data\osm_raw_122\Chennai_India.json,ok,realish,False,97000,365035,9405,2954,2475798,False,False,False
+Delhi,India,Delhi,South Asia,32900000,legacy43_xml_bridge,not_released,data\osm_raw_122\Delhi_India.json,ok,realish,False,1238,2331,93,60,25901,False,True,True
+Hyderabad,India,Hyderabad,South Asia,10004000,reuse_96_json,not_released,data\osm_raw_122\Hyderabad_India.json,ok,realish,False,178605,718340,14263,2869,4672434,False,False,False
+Lucknow,India,Lucknow,South Asia,2817000,reuse_96_json,not_released,data\osm_raw_122\Lucknow_India.json,ok,realish,False,55378,9262,1570,1029,385850,False,False,False
+Mumbai,India,Mumbai,South Asia,12440000,legacy43_xml_bridge,not_released,data\osm_raw_122\Mumbai_India.json,ok,realish,False,81,98,5,25,5821,False,True,True
+Pune,India,Pune,South Asia,6629000,reuse_96_json,not_released,data\osm_raw_122\Pune_India.json,ok,realish,False,96269,277749,9061,3436,2315219,False,False,False
+Islamabad,Pakistan,Islamabad,South Asia,1095000,reuse_96_json,not_released,data\osm_raw_122\Islamabad_Pakistan.json,ok,realish,False,68127,18401,4786,1535,615304,False,False,False
+Karachi,Pakistan,Karachi,South Asia,16094000,reuse_96_json,not_released,data\osm_raw_122\Karachi_Pakistan.json,ok,realish,False,79728,108881,32703,3290,1057641,False,False,False
+Colombo,Sri Lanka,Colombo,South Asia,752000,reuse_96_json,not_released,data\osm_raw_122\Colombo_Sri_Lanka.json,ok,realish,False,52417,420016,12537,2688,2751348,False,False,False
+Phnom Penh,Cambodia,PhnomPenh,Southeast Asia,2281000,reuse_96_json,not_released,data\osm_raw_122\Phnom_Penh_Cambodia.json,ok,realish,False,54002,74466,7910,1532,729564,False,False,False
+Jakarta,Indonesia,Jakarta,Southeast Asia,10562000,reuse_96_json,not_released,data\osm_raw_122\Jakarta_Indonesia.json,ok,realish,False,356522,2297923,31259,8571,13485726,False,True,False
+Surabaya,Indonesia,Surabaya,Southeast Asia,2874000,reuse_96_json,not_released,data\osm_raw_122\Surabaya_Indonesia.json,ok,realish,False,105044,1110169,6746,2050,6145984,False,False,False
+Vientiane,Laos,Vientiane,Southeast Asia,820000,reuse_96_json,not_released,data\osm_raw_122\Vientiane_Laos.json,ok,realish,False,32452,23435,4629,1877,408830,False,False,False
+Kuala Lumpur,Malaysia,KualaLumpur,Southeast Asia,1768000,reuse_96_json,not_released,data\osm_raw_122\Kuala_Lumpur_Malaysia.json,ok,realish,False,222224,541425,29029,9884,3638094,False,True,False
+Yangon,Myanmar,Yangon,Southeast Asia,5211000,reuse_96_json,not_released,data\osm_raw_122\Yangon_Myanmar.json,ok,realish,False,47061,107151,12193,2635,809712,False,False,False
+Manila,Philippines,Manila,Southeast Asia,13923000,legacy43_xml_bridge,not_released,data\osm_raw_122\Manila_Philippines.json,ok,realish,False,1377,10526,395,107,69692,False,True,False
+Singapore,Singapore,Singapore,Southeast Asia,5927000,legacy43_xml_bridge,not_released,data\osm_raw_122\Singapore_Singapore.json,ok,realish,False,1462,640,89,104,25651,True,True,True
+Bangkok,Thailand,Bangkok,Southeast Asia,10539000,legacy43_xml_bridge,not_released,data\osm_raw_122\Bangkok_Thailand.json,ok,realish,False,1623,1635,154,137,27116,False,True,False
+Hanoi,Vietnam,Hanoi,Southeast Asia,8246000,reuse_96_json,not_released,data\osm_raw_122\Hanoi_Vietnam.json,ok,realish,False,153573,173247,15728,7578,1819240,False,True,False

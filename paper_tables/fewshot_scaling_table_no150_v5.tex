@@ -1,0 +1,28 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Few-shot scaling on Structural-43, reported as mean city-level $R^2$ across fixed target-shot budgets.}
+\label{tab:fewshot-scaling-v5}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllll}
+\toprule
+Target & Method & $k=0$ & $k=1$ & $k=5$ & $k=10$ & Neg. $R^2$ at $k=10$ \\
+\midrule
+Connectivity & SATCA & 0.498 & 0.463 & 0.514 & 0.476 & 0.070 \\
+Connectivity & Importance-weighted ridge & 0.010 & 0.023 & -0.208 & -0.576 & 0.279 \\
+Connectivity & Pooled ridge & -0.266 & -0.260 & -0.673 & -1.460 & 0.349 \\
+Connectivity & Source-only ridge & -0.266 & -0.264 & -0.700 & -1.550 & 0.349 \\
+Connectivity & Tabular kNN & 0.059 & 0.073 & -0.078 & -0.333 & 0.395 \\
+Connectivity & Target-only ridge & -- & -1.753 & -0.217 & -0.728 & 0.419 \\
+Connectivity & CORAL ridge & -3.034 & -2.994 & -5.020 & -7.341 & 0.442 \\
+Road & SATCA & 0.509 & 0.496 & 0.505 & 0.488 & 0.140 \\
+Road & Importance-weighted ridge & 0.278 & 0.275 & 0.255 & 0.174 & 0.209 \\
+Road & Pooled ridge & 0.213 & 0.202 & 0.146 & 0.005 & 0.302 \\
+Road & Source-only ridge & 0.213 & 0.200 & 0.134 & -0.025 & 0.326 \\
+Road & Tabular kNN & 0.013 & 0.018 & -0.041 & -0.144 & 0.349 \\
+Road & Target-only ridge & -- & -1.451 & -0.149 & -0.023 & 0.442 \\
+Road & CORAL ridge & -1.567 & -1.603 & -1.638 & -1.906 & 0.395 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

@@ -1,0 +1,20 @@
+\begin{table*}[t]
+\centering
+\scriptsize
+\caption{Validity controls. Shortcut-only models are evaluated at Scale-122; frozen-representation and shuffled-label controls are retained as Structural-43 guardrails.}
+\label{tab:neurips-ed-validity-controls-v8}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllll}
+\toprule
+Scale & Target & Control & Cities & $R^2$ & Neg. $R^2$ & +/- cities & Rules out \\
+\midrule
+Scale-122 & Road & Coordinate+metadata pooled ridge & 118 & -1.425 & 1.000 & 0/118 & Coordinate / city-metadata shortcut \\
+Scale-122 & Connectivity & City-metadata pooled ridge & 118 & -2.758 & 1.000 & 0/118 & Coordinate / city-metadata shortcut \\
+Structural-43 & Connectivity & Frozen HFCLIP feature control & 43 & -0.060 & 0.140 & -- & Representation strength alone \\
+Structural-43 & Connectivity & Shuffled-label negative control & 43 & -0.405 & 1.000 & -- & Pipeline artifact under mismatched labels \\
+Structural-43 & Road & Frozen HFCLIP feature control & 43 & 0.293 & 0.233 & -- & Representation strength alone \\
+Structural-43 & Road & Shuffled-label negative control & 43 & -0.371 & 1.000 & -- & Pipeline artifact under mismatched labels \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

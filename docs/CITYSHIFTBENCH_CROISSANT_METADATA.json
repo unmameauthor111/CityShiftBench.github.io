@@ -1,0 +1,398 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "equivalentProperty": "cr:equivalentProperty",
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "samplingRate": "cr:samplingRate",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "@type": "sc:Dataset",
+  "name": "CityShiftBench Scale-122",
+  "alternateName": "CityShiftBench Anonymous NeurIPS 2026 E&D Review Artifact",
+  "description": "A benchmark for low-shot cross-city urban regression under strict city isolation, with 118 OSM-integrity active cities, 8,359 tile records, OSM-derived Road and Connectivity targets, fixed shot budgets, city-wise paired inference, controls, and failure diagnostics.",
+  "url": "https://github.com/unmameauthor111/CityShiftBench.github.io",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "version": "0.5.0",
+  "datePublished": "2026-05-01",
+  "license": [
+    "https://opensource.org/license/mit/",
+    "https://creativecommons.org/licenses/by/4.0/",
+    "https://opendatacommons.org/licenses/odbl/1-0/"
+  ],
+  "creator": [
+    {
+      "@type": "Organization",
+      "name": "Anonymous Authors"
+    }
+  ],
+  "keywords": [
+    "urban computing",
+    "cross-city transfer",
+    "benchmark",
+    "geospatial learning",
+    "evaluation protocol",
+    "OpenStreetMap"
+  ],
+  "citation": "Anonymous Authors. CityShiftBench: Claim-Bounded Evaluation for Low-Shot Cross-City Urban Prediction. NeurIPS 2026 Evaluations and Datasets Track submission.",
+  "citeAs": "Anonymous Authors. CityShiftBench: Claim-Bounded Evaluation for Low-Shot Cross-City Urban Prediction. NeurIPS 2026 Evaluations and Datasets Track submission.",
+  "rai:hasSyntheticData": false,
+  "prov:wasDerivedFrom": [
+    {
+      "@type": "Dataset",
+      "name": "OpenStreetMap",
+      "url": "https://www.openstreetmap.org/copyright",
+      "license": "https://opendatacommons.org/licenses/odbl/1-0/"
+    },
+    {
+      "@type": "Dataset",
+      "name": "World Bank Open Data API, indicator NY.GDP.PCAP.CD",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"
+    }
+  ],
+  "prov:wasGeneratedBy": [
+    {
+      "@type": "CreateAction",
+      "name": "CityShiftBench target rebuild and evaluation pipeline",
+      "description": "Rebuilds OSM-derived tile targets, applies fixed city-isolated split registries and target-shot indices, runs target-safe baseline and SATCA evaluations, and generates released summaries."
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "tile_targets_file",
+      "name": "cityshiftbench_scale122_tile_targets.csv",
+      "description": "Tile-level target records.",
+      "contentUrl": "https://raw.githubusercontent.com/unmameauthor111/CityShiftBench.github.io/main/data/cityshiftbench_scale122_tile_targets.csv",
+      "contentSize": "1178303",
+      "encodingFormat": "text/csv",
+      "sha256": "bc2c3933d3f02604b7b6618982dfd60ae9b69bc81ba30e1a968f0519736b6a8d"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "tile_manifest_122_file",
+      "name": "tile_manifest_122.csv",
+      "description": "Tile geometry and registry records.",
+      "contentUrl": "https://raw.githubusercontent.com/unmameauthor111/CityShiftBench.github.io/main/data/tile_manifest_122.csv",
+      "contentSize": "1172859",
+      "encodingFormat": "text/csv",
+      "sha256": "e5587f5ae536955c149592ba89dcae0bd8837d231ab7c3a4fc154bd614030b38"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "target_shot_registry_file",
+      "name": "target_shot_registry_scale122.csv",
+      "description": "Fixed target-shot support/evaluation assignments.",
+      "contentUrl": "https://raw.githubusercontent.com/unmameauthor111/CityShiftBench.github.io/main/data/splits/target_shot_registry_scale122.csv",
+      "contentSize": "15102024",
+      "encodingFormat": "text/csv",
+      "sha256": "48e4a6fcd3ab26b4077854c190a1504ab0135442b554d0a0475e96ac9aed2891"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "split_registry_122_file",
+      "name": "split_registry_122.csv",
+      "description": "LOCO split registry.",
+      "contentUrl": "https://raw.githubusercontent.com/unmameauthor111/CityShiftBench.github.io/main/data/splits/split_registry_122.csv",
+      "contentSize": "109625",
+      "encodingFormat": "text/csv",
+      "sha256": "cfebe60890ce89f177e0228f3ab46d274b97d9d4b641be561369be7ee3a8d070"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "baseline_summary_file",
+      "name": "fewshot_baseline_suite_scale122_summary.csv",
+      "description": "Scale-122 standard baseline summaries.",
+      "contentUrl": "https://raw.githubusercontent.com/unmameauthor111/CityShiftBench.github.io/main/results/fewshot_baseline_suite_scale122_summary.csv",
+      "contentSize": "7877",
+      "encodingFormat": "text/csv",
+      "sha256": "75cca8e66ae0abc59a3f8b7cc9ea27e326ef71fea3cb46227d0a42fb715aca8e"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "satca_paired_file",
+      "name": "satca_scale122_local_sharded_k010_paired_significance.csv",
+      "description": "Matched city-wise SATCA paired inference at k=10.",
+      "contentUrl": "https://raw.githubusercontent.com/unmameauthor111/CityShiftBench.github.io/main/results/satca_scale122_local_sharded_k010_paired_significance.csv",
+      "contentSize": "2303",
+      "encodingFormat": "text/csv",
+      "sha256": "60346729329a4647cca8af6f0e3f6da0c0984188e7bc3b71e8d6534b909f610e"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "tile_targets_records",
+      "name": "Scale-122 tile target records",
+      "key": [
+        {
+          "@id": "tile_targets_records/row_id"
+        }
+      ],
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/row_id",
+          "name": "row_id",
+          "description": "Stable tile-level row identifier.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "row_id"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/city",
+          "name": "city",
+          "description": "Registered city name.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "city"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/country",
+          "name": "country",
+          "description": "Country associated with the registered city.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "country"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/tile_id",
+          "name": "tile_id",
+          "description": "Tile identifier within city.",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "tile_id"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/latitude",
+          "name": "latitude",
+          "description": "Tile center latitude.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "latitude"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/longitude",
+          "name": "longitude",
+          "description": "Tile center longitude.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "longitude"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/target_road_segments",
+          "name": "target_road_segments",
+          "description": "OSM-derived Road target.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "target_road_segments"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tile_targets_records/target_intersection_nodes",
+          "name": "target_intersection_nodes",
+          "description": "OSM-derived Connectivity target.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "tile_targets_file"
+            },
+            "extract": {
+              "column": "target_intersection_nodes"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "cr:RecordSet",
+      "@id": "target_shot_registry_records",
+      "name": "Target-shot registry",
+      "key": [
+        {
+          "@id": "target_shot_registry_records/target_city"
+        },
+        {
+          "@id": "target_shot_registry_records/seed"
+        },
+        {
+          "@id": "target_shot_registry_records/shot"
+        },
+        {
+          "@id": "target_shot_registry_records/row_id"
+        }
+      ],
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "target_shot_registry_records/target_city",
+          "name": "target_city",
+          "description": "Held-out target city.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "target_shot_registry_file"
+            },
+            "extract": {
+              "column": "target_city"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "target_shot_registry_records/seed",
+          "name": "seed",
+          "description": "Seed used for deterministic support/evaluation assignment.",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "target_shot_registry_file"
+            },
+            "extract": {
+              "column": "seed"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "target_shot_registry_records/shot",
+          "name": "shot",
+          "description": "Target-shot budget.",
+          "dataType": "sc:Integer",
+          "source": {
+            "fileObject": {
+              "@id": "target_shot_registry_file"
+            },
+            "extract": {
+              "column": "shot"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "target_shot_registry_records/role",
+          "name": "role",
+          "description": "Either support or eval.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "target_shot_registry_file"
+            },
+            "extract": {
+              "column": "role"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "target_shot_registry_records/row_id",
+          "name": "row_id",
+          "description": "Tile-level row identifier.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "target_shot_registry_file"
+            },
+            "extract": {
+              "column": "row_id"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "rai:dataCollection": "The benchmark uses public city-level geospatial artifacts and OSM-derived truth layers. The active Scale-122 evaluation keeps 118 cities passing OSM-integrity checks.",
+  "rai:dataBiases": "OSM mapping completeness varies across cities and regions. Country-level GDP proxy strata may encode development and coverage differences and are descriptive only.",
+  "rai:dataLimitations": "The paper-core labels are structural Road and Connectivity targets. They do not measure human mobility, economic welfare, policy quality, or individual outcomes.",
+  "rai:dataSocialImpact": "The artifact supports research evaluation of cross-city transfer. It should not be used as an operational planning system or an authoritative city ranking.",
+  "rai:dataUseCases": "Intended uses include benchmarking low-shot cross-city transfer, auditing split sensitivity, testing city-wise reliability, and comparing methods under fixed shot budgets.",
+  "rai:personalSensitiveInformation": "No human-subject records or individual-level sensitive attributes are collected. The released metadata are city-level or tile-level geospatial descriptors."
+}

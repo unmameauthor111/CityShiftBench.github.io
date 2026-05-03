@@ -1,0 +1,23 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Scale-122 coverage and evaluation surface. Development-level metadata are reported as GDP-per-capita proxy strata because some cities have missing metadata.}
+\label{tab:neurips-ed-coverage-v8}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{ll}
+\toprule
+Dimension & Scale-122 coverage \\
+\midrule
+Cities & 118 integrity-passing cities \\
+Tiles & 8,359 tiles \\
+Countries & 68 countries \\
+Continents & Asia 53, Africa 17, Europe 16, North America 14, South America 14, Oceania 4 \\
+Population scale & Megacity (>=10M): 24, Very large (5-10M): 25, Large (1-5M): 42, Medium (0.5-1M): 12, Small (<0.5M): 5, Missing metadata: 10 \\
+GDP proxy strata & low: 33, mid: 23, high: 28, missing: 34 \\
+Targets & Road and Connectivity \\
+Shot budgets & k = 0, 1, 5, 10, 20 \\
+Inference unit & city-wise paired contrasts \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

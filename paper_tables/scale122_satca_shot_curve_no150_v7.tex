@@ -1,0 +1,26 @@
+\begin{table*}[t]
+\centering
+\setlength{\tabcolsep}{3.4pt}
+\renewcommand{\arraystretch}{0.90}
+\scriptsize
+\caption{Scale-122 SATCA shot curve over 118 cities and 8 seeds.}
+\label{tab:scale122-satca-shot-curve-v7}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllllll}
+\toprule
+Target & $k$ & Source $R^2$ & SATCA $R^2$ & $\Delta R^2$ & RMSE & MAE & Neg. $R^2$ & +/- cities \\
+\midrule
+Road & 0 & 0.431 & -- & -- & 189.116 & 130.989 & 0.119 & 104/14 \\
+Road & 1 & 0.430 & 0.448 & +0.019 & 186.256 & 131.335 & 0.093 & 107/11 \\
+Road & 5 & 0.420 & 0.500 & +0.079 & 177.883 & 123.530 & 0.068 & 110/8 \\
+Road & 10 & 0.398 & 0.514 & +0.116 & 171.355 & 120.086 & 0.034 & 114/4 \\
+Road & 20 & 0.309 & 0.476 & +0.167 & 165.271 & 117.277 & 0.076 & 109/9 \\
+Connectivity & 0 & 0.540 & -- & -- & 8.496 & 5.714 & 0.042 & 113/5 \\
+Connectivity & 1 & 0.540 & 0.557 & +0.017 & 8.143 & 5.635 & 0.034 & 114/4 \\
+Connectivity & 5 & 0.516 & 0.582 & +0.066 & 7.289 & 4.905 & 0.008 & 117/1 \\
+Connectivity & 10 & 0.463 & 0.584 & +0.120 & 6.946 & 4.714 & 0.008 & 117/1 \\
+Connectivity & 20 & 0.304 & 0.542 & +0.237 & 6.609 & 4.574 & 0.042 & 113/5 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

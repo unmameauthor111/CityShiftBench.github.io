@@ -1,0 +1,58 @@
+CityShiftBench review artifact license summary
+
+Copyright (c) 2026 Anonymous Authors
+
+This repository contains several kinds of material with different license
+obligations. The license terms below are intended for the anonymous NeurIPS
+Evaluations and Datasets review artifact and should be preserved in any public
+release.
+
+1. Original code and scripts
+
+Original source code, plotting scripts, table-generation scripts, and
+experiment wrappers written for CityShiftBench are released under the MIT
+License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+the original software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+2. Benchmark metadata, splits, derived tables, and figures
+
+Original benchmark metadata created by the authors, including split registries,
+shot registries, result summaries, generated tables, and generated figures, is
+released for research use under CC BY 4.0 unless a file explicitly states a
+more restrictive upstream license.
+
+3. OpenStreetMap-derived material
+
+Road, connectivity, and other OSM-derived target fields are derived from
+OpenStreetMap contributors. OpenStreetMap data is licensed under the Open Data
+Commons Open Database License (ODbL) 1.0. Redistribution and use of OSM-derived
+database material must comply with ODbL attribution and share-alike
+requirements. The MIT license above does not relicense OSM-derived data.
+
+Required attribution: OpenStreetMap contributors.
+Upstream license: https://opendatacommons.org/licenses/odbl/1-0/
+
+4. Other upstream sources
+
+Sentinel-derived descriptors, World Bank GDP-per-capita proxy fields, and any
+pretrained-model feature controls retain their upstream terms. The data card
+and model cards identify the intended source and use boundary for these
+components. Users are responsible for complying with upstream terms when
+redistributing full assets.

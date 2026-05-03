@@ -1,0 +1,20 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Matched city-wise SATCA contrasts against the SATCA-source comparator.}
+\label{tab:paired-inference-v5}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllllll}
+\toprule
+Slice & Target & SATCA-source $R^2$ & SATCA $R^2$ & $\Delta R^2$ & 95\% CI & Holm $p$ & +/- cities & Status \\
+\midrule
+Audited-9 & Connectivity & 0.422 & 0.443 & +0.021 & [-0.060, 0.121] & 1.000 & 3/6 & Directional \\
+Held-out-17 & Connectivity & 0.433 & 0.460 & +0.027 & [-0.060, 0.135] & 1.000 & 7/10 & Directional \\
+Structural-43 & Connectivity & 0.237 & 0.476 & +0.239 & [-0.027, 0.732] & 1.000 & 24/19 & Directional \\
+Audited-9 & Road & 0.266 & 0.351 & +0.086 & [0.002, 0.174] & 0.820 & 5/4 & Corroborative \\
+Held-out-17 & Road & 0.305 & 0.380 & +0.075 & [-0.007, 0.159] & 0.820 & 10/7 & Corroborative \\
+Structural-43 & Road & 0.424 & 0.488 & +0.064 & [0.028, 0.106] & 0.038 & 29/14 & Retained \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

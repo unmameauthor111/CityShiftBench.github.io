@@ -1,0 +1,22 @@
+\begin{table*}[t]
+\centering
+\scriptsize
+\caption{Scale-122 SATCA component ablation at $k=10$. The gain over the matched source comparator is robust, but individual terms are not isolated by this ablation.}
+\label{tab:neurips-ed-ablation-v8}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllllll}
+\toprule
+Target & Variant & Cities & $R^2$ & $\Delta$ vs source & $\Delta$ vs full & RMSE & MAE & Neg. $R^2$ & Readout \\
+\midrule
+Road & SATCA-source & 118 & 0.398 & +0.000 & -0.116 & 189.317 & 132.118 & 0.127 & Matched source comparator \\
+Road & w/o shift weighting & 118 & 0.514 & +0.116 & +0.000 & 171.418 & 120.079 & 0.034 & Gain persists; shift term not isolated \\
+Road & w/o uncertainty term & 118 & 0.514 & +0.116 & +0.001 & 171.449 & 119.755 & 0.034 & Gain persists; uncertainty term not isolated \\
+Road & Full SATCA & 118 & 0.514 & +0.116 & +0.000 & 171.355 & 120.086 & 0.034 & Reference adapted probe \\
+Connectivity & SATCA-source & 118 & 0.463 & +0.000 & -0.120 & 8.394 & 5.722 & 0.042 & Matched source comparator \\
+Connectivity & w/o shift weighting & 118 & 0.584 & +0.121 & +0.001 & 6.947 & 4.713 & 0.008 & Gain persists; shift term not isolated \\
+Connectivity & w/o uncertainty term & 118 & 0.585 & +0.121 & +0.001 & 6.970 & 4.711 & 0.008 & Gain persists; uncertainty term not isolated \\
+Connectivity & Full SATCA & 118 & 0.584 & +0.120 & +0.000 & 6.946 & 4.714 & 0.008 & Reference adapted probe \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

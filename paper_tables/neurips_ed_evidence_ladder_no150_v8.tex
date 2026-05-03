@@ -1,0 +1,24 @@
+\begin{table*}[t]
+\centering
+\setlength{\tabcolsep}{3.2pt}
+\renewcommand{\arraystretch}{0.90}
+\scriptsize
+\caption{Evidence ladder across full-scale and audit slices. Scale-122 carries the main claim.}
+\label{tab:neurips-ed-evidence-ladder-v8}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllllll}
+\toprule
+Slice & Target & Cities & Source $R^2$ & SATCA $R^2$ & $\Delta R^2$ & 95\% CI & Holm $p$ & +/- cities & Role \\
+\midrule
+scale122 & Connectivity & 118 & 0.463 & 0.584 & +0.120 & [0.046, 0.240] & 1.97e-05 & 74/44 & Main full-scale evidence \\
+scale122 & Road & 118 & 0.398 & 0.514 & +0.116 & [0.078, 0.162] & 2.46e-11 & 92/26 & Main full-scale evidence \\
+structural43 & Connectivity & 43 & 0.237 & 0.476 & +0.239 & [-0.027, 0.732] & 1.00e+00 & 24/19 & Historical structural audit \\
+structural43 & Road & 43 & 0.424 & 0.488 & +0.064 & [0.028, 0.106] & 3.80e-02 & 29/14 & Historical structural audit \\
+audited9 & Connectivity & 9 & 0.422 & 0.443 & +0.021 & [-0.060, 0.121] & 1.00e+00 & 3/6 & High-control sanity check \\
+audited9 & Road & 9 & 0.266 & 0.351 & +0.086 & [0.002, 0.174] & 8.20e-01 & 5/4 & High-control sanity check \\
+heldout17 & Connectivity & 17 & 0.433 & 0.460 & +0.027 & [-0.060, 0.135] & 1.00e+00 & 7/10 & Frozen corroboration slice \\
+heldout17 & Road & 17 & 0.305 & 0.380 & +0.075 & [-0.007, 0.159] & 8.20e-01 & 10/7 & Frozen corroboration slice \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

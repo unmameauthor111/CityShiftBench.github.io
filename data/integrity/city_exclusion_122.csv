@@ -1,0 +1,5 @@
+city,country,legacy_city,region,population,source_kind,source_path,target_file,read_state,status,needs_redownload,roads,buildings,pois,landuse,element_count,is_audited9,is_structural43,is_heldout17,exclusion_reason
+Chongqing,China,Chongqing,East Asia,32054000,,,,missing,missing,False,0,0,0,0,0,False,False,False,osm_status_missing
+Guangzhou,China,Guangzhou,East Asia,15300000,,,,missing,missing,False,0,0,0,0,0,False,False,False,osm_status_missing
+Shenzhen,China,Shenzhen,East Asia,12528000,,,,missing,missing,False,0,0,0,0,0,False,False,False,osm_status_missing
+Kolkata,India,Kolkata,South Asia,14850000,,,,missing,missing,False,0,0,0,0,0,False,False,False,osm_status_missing

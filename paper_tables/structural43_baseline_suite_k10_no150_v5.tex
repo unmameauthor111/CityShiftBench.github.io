@@ -1,0 +1,28 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Unified Structural-43 baseline suite at $k=10$. All rows use the same target-city evaluation setting.}
+\label{tab:structural43-baseline-suite}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllll}
+\toprule
+Target & Method & Cities & $R^2$ & RMSE & MAE & Neg. $R^2$ & +/- cities \\
+\midrule
+Connectivity & SATCA & 43 & 0.476 & 7.163 & 4.716 & 0.070 & 40/3 \\
+Connectivity & Tabular kNN & 43 & -0.333 & 9.592 & 6.248 & 0.395 & 26/17 \\
+Connectivity & Importance-weighted ridge & 43 & -0.576 & 8.959 & 5.993 & 0.279 & 31/12 \\
+Connectivity & Target-only ridge & 43 & -0.728 & 10.021 & 6.765 & 0.419 & 25/18 \\
+Connectivity & Pooled ridge & 43 & -1.460 & 9.475 & 6.446 & 0.349 & 28/15 \\
+Connectivity & Source-only ridge & 43 & -1.550 & 9.573 & 6.513 & 0.349 & 28/15 \\
+Connectivity & CORAL ridge & 43 & -7.341 & 11.189 & 7.729 & 0.442 & 24/19 \\
+Road & SATCA & 43 & 0.488 & 165.339 & 116.275 & 0.140 & 37/6 \\
+Road & Importance-weighted ridge & 43 & 0.174 & 195.694 & 138.658 & 0.209 & 34/9 \\
+Road & Pooled ridge & 43 & 0.005 & 202.140 & 144.927 & 0.302 & 30/13 \\
+Road & Target-only ridge & 43 & -0.023 & 223.373 & 161.793 & 0.442 & 24/19 \\
+Road & Source-only ridge & 43 & -0.025 & 203.909 & 146.330 & 0.326 & 29/14 \\
+Road & Tabular kNN & 43 & -0.144 & 225.774 & 161.634 & 0.349 & 28/15 \\
+Road & CORAL ridge & 43 & -1.906 & 244.939 & 186.431 & 0.395 & 26/17 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

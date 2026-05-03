@@ -1,0 +1,26 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{SATCA ablations and guardrail controls at $k=10$ on Structural-43.}
+\label{tab:satca-ablation-control-v5}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllll}
+\toprule
+Target & Variant & $R^2$ & $\Delta$ vs full & RMSE & MAE & Neg. $R^2$ & Readout \\
+\midrule
+Road & Full SATCA & 0.488 & +0.000 & 165.339 & 116.275 & 0.140 & Reference full model \\
+Road & No shift term & 0.489 & +0.001 & 165.455 & 116.108 & 0.140 & Mechanism check \\
+Road & No uncertainty term & 0.490 & +0.002 & 165.633 & 116.176 & 0.140 & Mechanism check \\
+Road & SATCA-source & 0.424 & -0.064 & 176.261 & 121.705 & 0.163 & Matched probe comparator \\
+Road & Frozen HFCLIP & 0.293 & -0.195 & 195.846 & 139.738 & 0.233 & Representation control \\
+Road & Shuffled labels & -0.371 & -0.859 & 461.402 & 346.712 & 1.000 & Negative control \\
+Connectivity & Full SATCA & 0.476 & +0.000 & 7.163 & 4.716 & 0.070 & Reference full model \\
+Connectivity & No shift term & 0.476 & +0.000 & 7.152 & 4.700 & 0.070 & Mechanism check \\
+Connectivity & No uncertainty term & 0.481 & +0.005 & 7.161 & 4.680 & 0.047 & Mechanism check \\
+Connectivity & SATCA-source & 0.237 & -0.239 & 7.772 & 4.875 & 0.070 & Matched probe comparator \\
+Connectivity & Frozen HFCLIP & -0.060 & -0.535 & 7.940 & 5.196 & 0.140 & Representation control \\
+Connectivity & Shuffled labels & -0.405 & -0.880 & 24.145 & 15.988 & 1.000 & Negative control \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

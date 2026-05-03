@@ -1,0 +1,945 @@
+split_type,source_city,target_city,shot_level,seed
+LOCO,Luanda,Algiers,0,0
+LOCO,Luanda,Algiers,1,0
+LOCO,Luanda,Algiers,5,0
+LOCO,Luanda,Algiers,10,0
+LOCO,Luanda,Algiers,20,0
+LOCO,Luanda,Algiers,50,0
+LOCO,Luanda,Algiers,100,0
+LOCO,Luanda,Algiers,200,0
+LOCO,Abidjan,Luanda,0,0
+LOCO,Abidjan,Luanda,1,0
+LOCO,Abidjan,Luanda,5,0
+LOCO,Abidjan,Luanda,10,0
+LOCO,Abidjan,Luanda,20,0
+LOCO,Abidjan,Luanda,50,0
+LOCO,Abidjan,Luanda,100,0
+LOCO,Abidjan,Luanda,200,0
+LOCO,Kinshasa,Abidjan,0,0
+LOCO,Kinshasa,Abidjan,1,0
+LOCO,Kinshasa,Abidjan,5,0
+LOCO,Kinshasa,Abidjan,10,0
+LOCO,Kinshasa,Abidjan,20,0
+LOCO,Kinshasa,Abidjan,50,0
+LOCO,Kinshasa,Abidjan,100,0
+LOCO,Kinshasa,Abidjan,200,0
+LOCO,Cairo,Kinshasa,0,0
+LOCO,Cairo,Kinshasa,1,0
+LOCO,Cairo,Kinshasa,5,0
+LOCO,Cairo,Kinshasa,10,0
+LOCO,Cairo,Kinshasa,20,0
+LOCO,Cairo,Kinshasa,50,0
+LOCO,Cairo,Kinshasa,100,0
+LOCO,Cairo,Kinshasa,200,0
+LOCO,Addis Ababa,Cairo,0,0
+LOCO,Addis Ababa,Cairo,1,0
+LOCO,Addis Ababa,Cairo,5,0
+LOCO,Addis Ababa,Cairo,10,0
+LOCO,Addis Ababa,Cairo,20,0
+LOCO,Addis Ababa,Cairo,50,0
+LOCO,Addis Ababa,Cairo,100,0
+LOCO,Addis Ababa,Cairo,200,0
+LOCO,Accra,Addis Ababa,0,0
+LOCO,Accra,Addis Ababa,1,0
+LOCO,Accra,Addis Ababa,5,0
+LOCO,Accra,Addis Ababa,10,0
+LOCO,Accra,Addis Ababa,20,0
+LOCO,Accra,Addis Ababa,50,0
+LOCO,Accra,Addis Ababa,100,0
+LOCO,Accra,Addis Ababa,200,0
+LOCO,Nairobi,Accra,0,0
+LOCO,Nairobi,Accra,1,0
+LOCO,Nairobi,Accra,5,0
+LOCO,Nairobi,Accra,10,0
+LOCO,Nairobi,Accra,20,0
+LOCO,Nairobi,Accra,50,0
+LOCO,Nairobi,Accra,100,0
+LOCO,Nairobi,Accra,200,0
+LOCO,Casablanca,Nairobi,0,0
+LOCO,Casablanca,Nairobi,1,0
+LOCO,Casablanca,Nairobi,5,0
+LOCO,Casablanca,Nairobi,10,0
+LOCO,Casablanca,Nairobi,20,0
+LOCO,Casablanca,Nairobi,50,0
+LOCO,Casablanca,Nairobi,100,0
+LOCO,Casablanca,Nairobi,200,0
+LOCO,Maputo,Casablanca,0,0
+LOCO,Maputo,Casablanca,1,0
+LOCO,Maputo,Casablanca,5,0
+LOCO,Maputo,Casablanca,10,0
+LOCO,Maputo,Casablanca,20,0
+LOCO,Maputo,Casablanca,50,0
+LOCO,Maputo,Casablanca,100,0
+LOCO,Maputo,Casablanca,200,0
+LOCO,Lagos,Maputo,0,0
+LOCO,Lagos,Maputo,1,0
+LOCO,Lagos,Maputo,5,0
+LOCO,Lagos,Maputo,10,0
+LOCO,Lagos,Maputo,20,0
+LOCO,Lagos,Maputo,50,0
+LOCO,Lagos,Maputo,100,0
+LOCO,Lagos,Maputo,200,0
+LOCO,Dakar,Lagos,0,0
+LOCO,Dakar,Lagos,1,0
+LOCO,Dakar,Lagos,5,0
+LOCO,Dakar,Lagos,10,0
+LOCO,Dakar,Lagos,20,0
+LOCO,Dakar,Lagos,50,0
+LOCO,Dakar,Lagos,100,0
+LOCO,Dakar,Lagos,200,0
+LOCO,Cape Town,Dakar,0,0
+LOCO,Cape Town,Dakar,1,0
+LOCO,Cape Town,Dakar,5,0
+LOCO,Cape Town,Dakar,10,0
+LOCO,Cape Town,Dakar,20,0
+LOCO,Cape Town,Dakar,50,0
+LOCO,Cape Town,Dakar,100,0
+LOCO,Cape Town,Dakar,200,0
+LOCO,Johannesburg,Cape Town,0,0
+LOCO,Johannesburg,Cape Town,1,0
+LOCO,Johannesburg,Cape Town,5,0
+LOCO,Johannesburg,Cape Town,10,0
+LOCO,Johannesburg,Cape Town,20,0
+LOCO,Johannesburg,Cape Town,50,0
+LOCO,Johannesburg,Cape Town,100,0
+LOCO,Johannesburg,Cape Town,200,0
+LOCO,Khartoum,Johannesburg,0,0
+LOCO,Khartoum,Johannesburg,1,0
+LOCO,Khartoum,Johannesburg,5,0
+LOCO,Khartoum,Johannesburg,10,0
+LOCO,Khartoum,Johannesburg,20,0
+LOCO,Khartoum,Johannesburg,50,0
+LOCO,Khartoum,Johannesburg,100,0
+LOCO,Khartoum,Johannesburg,200,0
+LOCO,Tunis,Khartoum,0,0
+LOCO,Tunis,Khartoum,1,0
+LOCO,Tunis,Khartoum,5,0
+LOCO,Tunis,Khartoum,10,0
+LOCO,Tunis,Khartoum,20,0
+LOCO,Tunis,Khartoum,50,0
+LOCO,Tunis,Khartoum,100,0
+LOCO,Tunis,Khartoum,200,0
+LOCO,Kampala,Tunis,0,0
+LOCO,Kampala,Tunis,1,0
+LOCO,Kampala,Tunis,5,0
+LOCO,Kampala,Tunis,10,0
+LOCO,Kampala,Tunis,20,0
+LOCO,Kampala,Tunis,50,0
+LOCO,Kampala,Tunis,100,0
+LOCO,Kampala,Tunis,200,0
+LOCO,Beijing,Kampala,0,0
+LOCO,Beijing,Kampala,1,0
+LOCO,Beijing,Kampala,5,0
+LOCO,Beijing,Kampala,10,0
+LOCO,Beijing,Kampala,20,0
+LOCO,Beijing,Kampala,50,0
+LOCO,Beijing,Kampala,100,0
+LOCO,Beijing,Kampala,200,0
+LOCO,Changchun,Beijing,0,0
+LOCO,Changchun,Beijing,1,0
+LOCO,Changchun,Beijing,5,0
+LOCO,Changchun,Beijing,10,0
+LOCO,Changchun,Beijing,20,0
+LOCO,Changchun,Beijing,50,0
+LOCO,Changchun,Beijing,100,0
+LOCO,Changchun,Beijing,200,0
+LOCO,Changsha,Changchun,0,0
+LOCO,Changsha,Changchun,1,0
+LOCO,Changsha,Changchun,5,0
+LOCO,Changsha,Changchun,10,0
+LOCO,Changsha,Changchun,20,0
+LOCO,Changsha,Changchun,50,0
+LOCO,Changsha,Changchun,100,0
+LOCO,Changsha,Changchun,200,0
+LOCO,Chengdu,Changsha,0,0
+LOCO,Chengdu,Changsha,1,0
+LOCO,Chengdu,Changsha,5,0
+LOCO,Chengdu,Changsha,10,0
+LOCO,Chengdu,Changsha,20,0
+LOCO,Chengdu,Changsha,50,0
+LOCO,Chengdu,Changsha,100,0
+LOCO,Chengdu,Changsha,200,0
+LOCO,Dalian,Chengdu,0,0
+LOCO,Dalian,Chengdu,1,0
+LOCO,Dalian,Chengdu,5,0
+LOCO,Dalian,Chengdu,10,0
+LOCO,Dalian,Chengdu,20,0
+LOCO,Dalian,Chengdu,50,0
+LOCO,Dalian,Chengdu,100,0
+LOCO,Dalian,Chengdu,200,0
+LOCO,Dongguan,Dalian,0,0
+LOCO,Dongguan,Dalian,1,0
+LOCO,Dongguan,Dalian,5,0
+LOCO,Dongguan,Dalian,10,0
+LOCO,Dongguan,Dalian,20,0
+LOCO,Dongguan,Dalian,50,0
+LOCO,Dongguan,Dalian,100,0
+LOCO,Dongguan,Dalian,200,0
+LOCO,Harbin,Dongguan,0,0
+LOCO,Harbin,Dongguan,1,0
+LOCO,Harbin,Dongguan,5,0
+LOCO,Harbin,Dongguan,10,0
+LOCO,Harbin,Dongguan,20,0
+LOCO,Harbin,Dongguan,50,0
+LOCO,Harbin,Dongguan,100,0
+LOCO,Harbin,Dongguan,200,0
+LOCO,Hefei,Harbin,0,0
+LOCO,Hefei,Harbin,1,0
+LOCO,Hefei,Harbin,5,0
+LOCO,Hefei,Harbin,10,0
+LOCO,Hefei,Harbin,20,0
+LOCO,Hefei,Harbin,50,0
+LOCO,Hefei,Harbin,100,0
+LOCO,Hefei,Harbin,200,0
+LOCO,HongKong,Hefei,0,0
+LOCO,HongKong,Hefei,1,0
+LOCO,HongKong,Hefei,5,0
+LOCO,HongKong,Hefei,10,0
+LOCO,HongKong,Hefei,20,0
+LOCO,HongKong,Hefei,50,0
+LOCO,HongKong,Hefei,100,0
+LOCO,HongKong,Hefei,200,0
+LOCO,Kunming,HongKong,0,0
+LOCO,Kunming,HongKong,1,0
+LOCO,Kunming,HongKong,5,0
+LOCO,Kunming,HongKong,10,0
+LOCO,Kunming,HongKong,20,0
+LOCO,Kunming,HongKong,50,0
+LOCO,Kunming,HongKong,100,0
+LOCO,Kunming,HongKong,200,0
+LOCO,Lanzhou,Kunming,0,0
+LOCO,Lanzhou,Kunming,1,0
+LOCO,Lanzhou,Kunming,5,0
+LOCO,Lanzhou,Kunming,10,0
+LOCO,Lanzhou,Kunming,20,0
+LOCO,Lanzhou,Kunming,50,0
+LOCO,Lanzhou,Kunming,100,0
+LOCO,Lanzhou,Kunming,200,0
+LOCO,Lhasa,Lanzhou,0,0
+LOCO,Lhasa,Lanzhou,1,0
+LOCO,Lhasa,Lanzhou,5,0
+LOCO,Lhasa,Lanzhou,10,0
+LOCO,Lhasa,Lanzhou,20,0
+LOCO,Lhasa,Lanzhou,50,0
+LOCO,Lhasa,Lanzhou,100,0
+LOCO,Lhasa,Lanzhou,200,0
+LOCO,Shanghai,Lhasa,0,0
+LOCO,Shanghai,Lhasa,1,0
+LOCO,Shanghai,Lhasa,5,0
+LOCO,Shanghai,Lhasa,10,0
+LOCO,Shanghai,Lhasa,20,0
+LOCO,Shanghai,Lhasa,50,0
+LOCO,Shanghai,Lhasa,100,0
+LOCO,Shanghai,Lhasa,200,0
+LOCO,Shenyang,Shanghai,0,0
+LOCO,Shenyang,Shanghai,1,0
+LOCO,Shenyang,Shanghai,5,0
+LOCO,Shenyang,Shanghai,10,0
+LOCO,Shenyang,Shanghai,20,0
+LOCO,Shenyang,Shanghai,50,0
+LOCO,Shenyang,Shanghai,100,0
+LOCO,Shenyang,Shanghai,200,0
+LOCO,Shijiazhuang,Shenyang,0,0
+LOCO,Shijiazhuang,Shenyang,1,0
+LOCO,Shijiazhuang,Shenyang,5,0
+LOCO,Shijiazhuang,Shenyang,10,0
+LOCO,Shijiazhuang,Shenyang,20,0
+LOCO,Shijiazhuang,Shenyang,50,0
+LOCO,Shijiazhuang,Shenyang,100,0
+LOCO,Shijiazhuang,Shenyang,200,0
+LOCO,Suzhou,Shijiazhuang,0,0
+LOCO,Suzhou,Shijiazhuang,1,0
+LOCO,Suzhou,Shijiazhuang,5,0
+LOCO,Suzhou,Shijiazhuang,10,0
+LOCO,Suzhou,Shijiazhuang,20,0
+LOCO,Suzhou,Shijiazhuang,50,0
+LOCO,Suzhou,Shijiazhuang,100,0
+LOCO,Suzhou,Shijiazhuang,200,0
+LOCO,Taiyuan,Suzhou,0,0
+LOCO,Taiyuan,Suzhou,1,0
+LOCO,Taiyuan,Suzhou,5,0
+LOCO,Taiyuan,Suzhou,10,0
+LOCO,Taiyuan,Suzhou,20,0
+LOCO,Taiyuan,Suzhou,50,0
+LOCO,Taiyuan,Suzhou,100,0
+LOCO,Taiyuan,Suzhou,200,0
+LOCO,Urumqi,Taiyuan,0,0
+LOCO,Urumqi,Taiyuan,1,0
+LOCO,Urumqi,Taiyuan,5,0
+LOCO,Urumqi,Taiyuan,10,0
+LOCO,Urumqi,Taiyuan,20,0
+LOCO,Urumqi,Taiyuan,50,0
+LOCO,Urumqi,Taiyuan,100,0
+LOCO,Urumqi,Taiyuan,200,0
+LOCO,Xi'an,Urumqi,0,0
+LOCO,Xi'an,Urumqi,1,0
+LOCO,Xi'an,Urumqi,5,0
+LOCO,Xi'an,Urumqi,10,0
+LOCO,Xi'an,Urumqi,20,0
+LOCO,Xi'an,Urumqi,50,0
+LOCO,Xi'an,Urumqi,100,0
+LOCO,Xi'an,Urumqi,200,0
+LOCO,Tokyo,Xi'an,0,0
+LOCO,Tokyo,Xi'an,1,0
+LOCO,Tokyo,Xi'an,5,0
+LOCO,Tokyo,Xi'an,10,0
+LOCO,Tokyo,Xi'an,20,0
+LOCO,Tokyo,Xi'an,50,0
+LOCO,Tokyo,Xi'an,100,0
+LOCO,Tokyo,Xi'an,200,0
+LOCO,Busan,Tokyo,0,0
+LOCO,Busan,Tokyo,1,0
+LOCO,Busan,Tokyo,5,0
+LOCO,Busan,Tokyo,10,0
+LOCO,Busan,Tokyo,20,0
+LOCO,Busan,Tokyo,50,0
+LOCO,Busan,Tokyo,100,0
+LOCO,Busan,Tokyo,200,0
+LOCO,Seoul,Busan,0,0
+LOCO,Seoul,Busan,1,0
+LOCO,Seoul,Busan,5,0
+LOCO,Seoul,Busan,10,0
+LOCO,Seoul,Busan,20,0
+LOCO,Seoul,Busan,50,0
+LOCO,Seoul,Busan,100,0
+LOCO,Seoul,Busan,200,0
+LOCO,Vienna,Seoul,0,0
+LOCO,Vienna,Seoul,1,0
+LOCO,Vienna,Seoul,5,0
+LOCO,Vienna,Seoul,10,0
+LOCO,Vienna,Seoul,20,0
+LOCO,Vienna,Seoul,50,0
+LOCO,Vienna,Seoul,100,0
+LOCO,Vienna,Seoul,200,0
+LOCO,Brussels,Vienna,0,0
+LOCO,Brussels,Vienna,1,0
+LOCO,Brussels,Vienna,5,0
+LOCO,Brussels,Vienna,10,0
+LOCO,Brussels,Vienna,20,0
+LOCO,Brussels,Vienna,50,0
+LOCO,Brussels,Vienna,100,0
+LOCO,Brussels,Vienna,200,0
+LOCO,Prague,Brussels,0,0
+LOCO,Prague,Brussels,1,0
+LOCO,Prague,Brussels,5,0
+LOCO,Prague,Brussels,10,0
+LOCO,Prague,Brussels,20,0
+LOCO,Prague,Brussels,50,0
+LOCO,Prague,Brussels,100,0
+LOCO,Prague,Brussels,200,0
+LOCO,Copenhagen,Prague,0,0
+LOCO,Copenhagen,Prague,1,0
+LOCO,Copenhagen,Prague,5,0
+LOCO,Copenhagen,Prague,10,0
+LOCO,Copenhagen,Prague,20,0
+LOCO,Copenhagen,Prague,50,0
+LOCO,Copenhagen,Prague,100,0
+LOCO,Copenhagen,Prague,200,0
+LOCO,Helsinki,Copenhagen,0,0
+LOCO,Helsinki,Copenhagen,1,0
+LOCO,Helsinki,Copenhagen,5,0
+LOCO,Helsinki,Copenhagen,10,0
+LOCO,Helsinki,Copenhagen,20,0
+LOCO,Helsinki,Copenhagen,50,0
+LOCO,Helsinki,Copenhagen,100,0
+LOCO,Helsinki,Copenhagen,200,0
+LOCO,Paris,Helsinki,0,0
+LOCO,Paris,Helsinki,1,0
+LOCO,Paris,Helsinki,5,0
+LOCO,Paris,Helsinki,10,0
+LOCO,Paris,Helsinki,20,0
+LOCO,Paris,Helsinki,50,0
+LOCO,Paris,Helsinki,100,0
+LOCO,Paris,Helsinki,200,0
+LOCO,Berlin,Paris,0,0
+LOCO,Berlin,Paris,1,0
+LOCO,Berlin,Paris,5,0
+LOCO,Berlin,Paris,10,0
+LOCO,Berlin,Paris,20,0
+LOCO,Berlin,Paris,50,0
+LOCO,Berlin,Paris,100,0
+LOCO,Berlin,Paris,200,0
+LOCO,Budapest,Berlin,0,0
+LOCO,Budapest,Berlin,1,0
+LOCO,Budapest,Berlin,5,0
+LOCO,Budapest,Berlin,10,0
+LOCO,Budapest,Berlin,20,0
+LOCO,Budapest,Berlin,50,0
+LOCO,Budapest,Berlin,100,0
+LOCO,Budapest,Berlin,200,0
+LOCO,Dublin,Budapest,0,0
+LOCO,Dublin,Budapest,1,0
+LOCO,Dublin,Budapest,5,0
+LOCO,Dublin,Budapest,10,0
+LOCO,Dublin,Budapest,20,0
+LOCO,Dublin,Budapest,50,0
+LOCO,Dublin,Budapest,100,0
+LOCO,Dublin,Budapest,200,0
+LOCO,Rome,Dublin,0,0
+LOCO,Rome,Dublin,1,0
+LOCO,Rome,Dublin,5,0
+LOCO,Rome,Dublin,10,0
+LOCO,Rome,Dublin,20,0
+LOCO,Rome,Dublin,50,0
+LOCO,Rome,Dublin,100,0
+LOCO,Rome,Dublin,200,0
+LOCO,Amsterdam,Rome,0,0
+LOCO,Amsterdam,Rome,1,0
+LOCO,Amsterdam,Rome,5,0
+LOCO,Amsterdam,Rome,10,0
+LOCO,Amsterdam,Rome,20,0
+LOCO,Amsterdam,Rome,50,0
+LOCO,Amsterdam,Rome,100,0
+LOCO,Amsterdam,Rome,200,0
+LOCO,Lisbon,Amsterdam,0,0
+LOCO,Lisbon,Amsterdam,1,0
+LOCO,Lisbon,Amsterdam,5,0
+LOCO,Lisbon,Amsterdam,10,0
+LOCO,Lisbon,Amsterdam,20,0
+LOCO,Lisbon,Amsterdam,50,0
+LOCO,Lisbon,Amsterdam,100,0
+LOCO,Lisbon,Amsterdam,200,0
+LOCO,Barcelona,Lisbon,0,0
+LOCO,Barcelona,Lisbon,1,0
+LOCO,Barcelona,Lisbon,5,0
+LOCO,Barcelona,Lisbon,10,0
+LOCO,Barcelona,Lisbon,20,0
+LOCO,Barcelona,Lisbon,50,0
+LOCO,Barcelona,Lisbon,100,0
+LOCO,Barcelona,Lisbon,200,0
+LOCO,Madrid,Barcelona,0,0
+LOCO,Madrid,Barcelona,1,0
+LOCO,Madrid,Barcelona,5,0
+LOCO,Madrid,Barcelona,10,0
+LOCO,Madrid,Barcelona,20,0
+LOCO,Madrid,Barcelona,50,0
+LOCO,Madrid,Barcelona,100,0
+LOCO,Madrid,Barcelona,200,0
+LOCO,Zurich,Madrid,0,0
+LOCO,Zurich,Madrid,1,0
+LOCO,Zurich,Madrid,5,0
+LOCO,Zurich,Madrid,10,0
+LOCO,Zurich,Madrid,20,0
+LOCO,Zurich,Madrid,50,0
+LOCO,Zurich,Madrid,100,0
+LOCO,Zurich,Madrid,200,0
+LOCO,London,Zurich,0,0
+LOCO,London,Zurich,1,0
+LOCO,London,Zurich,5,0
+LOCO,London,Zurich,10,0
+LOCO,London,Zurich,20,0
+LOCO,London,Zurich,50,0
+LOCO,London,Zurich,100,0
+LOCO,London,Zurich,200,0
+LOCO,Baghdad,London,0,0
+LOCO,Baghdad,London,1,0
+LOCO,Baghdad,London,5,0
+LOCO,Baghdad,London,10,0
+LOCO,Baghdad,London,20,0
+LOCO,Baghdad,London,50,0
+LOCO,Baghdad,London,100,0
+LOCO,Baghdad,London,200,0
+LOCO,Kuwait City,Baghdad,0,0
+LOCO,Kuwait City,Baghdad,1,0
+LOCO,Kuwait City,Baghdad,5,0
+LOCO,Kuwait City,Baghdad,10,0
+LOCO,Kuwait City,Baghdad,20,0
+LOCO,Kuwait City,Baghdad,50,0
+LOCO,Kuwait City,Baghdad,100,0
+LOCO,Kuwait City,Baghdad,200,0
+LOCO,Beirut,Kuwait City,0,0
+LOCO,Beirut,Kuwait City,1,0
+LOCO,Beirut,Kuwait City,5,0
+LOCO,Beirut,Kuwait City,10,0
+LOCO,Beirut,Kuwait City,20,0
+LOCO,Beirut,Kuwait City,50,0
+LOCO,Beirut,Kuwait City,100,0
+LOCO,Beirut,Kuwait City,200,0
+LOCO,Doha,Beirut,0,0
+LOCO,Doha,Beirut,1,0
+LOCO,Doha,Beirut,5,0
+LOCO,Doha,Beirut,10,0
+LOCO,Doha,Beirut,20,0
+LOCO,Doha,Beirut,50,0
+LOCO,Doha,Beirut,100,0
+LOCO,Doha,Beirut,200,0
+LOCO,Jeddah,Doha,0,0
+LOCO,Jeddah,Doha,1,0
+LOCO,Jeddah,Doha,5,0
+LOCO,Jeddah,Doha,10,0
+LOCO,Jeddah,Doha,20,0
+LOCO,Jeddah,Doha,50,0
+LOCO,Jeddah,Doha,100,0
+LOCO,Jeddah,Doha,200,0
+LOCO,Riyadh,Jeddah,0,0
+LOCO,Riyadh,Jeddah,1,0
+LOCO,Riyadh,Jeddah,5,0
+LOCO,Riyadh,Jeddah,10,0
+LOCO,Riyadh,Jeddah,20,0
+LOCO,Riyadh,Jeddah,50,0
+LOCO,Riyadh,Jeddah,100,0
+LOCO,Riyadh,Jeddah,200,0
+LOCO,Istanbul,Riyadh,0,0
+LOCO,Istanbul,Riyadh,1,0
+LOCO,Istanbul,Riyadh,5,0
+LOCO,Istanbul,Riyadh,10,0
+LOCO,Istanbul,Riyadh,20,0
+LOCO,Istanbul,Riyadh,50,0
+LOCO,Istanbul,Riyadh,100,0
+LOCO,Istanbul,Riyadh,200,0
+LOCO,Abu Dhabi,Istanbul,0,0
+LOCO,Abu Dhabi,Istanbul,1,0
+LOCO,Abu Dhabi,Istanbul,5,0
+LOCO,Abu Dhabi,Istanbul,10,0
+LOCO,Abu Dhabi,Istanbul,20,0
+LOCO,Abu Dhabi,Istanbul,50,0
+LOCO,Abu Dhabi,Istanbul,100,0
+LOCO,Abu Dhabi,Istanbul,200,0
+LOCO,Dubai,Abu Dhabi,0,0
+LOCO,Dubai,Abu Dhabi,1,0
+LOCO,Dubai,Abu Dhabi,5,0
+LOCO,Dubai,Abu Dhabi,10,0
+LOCO,Dubai,Abu Dhabi,20,0
+LOCO,Dubai,Abu Dhabi,50,0
+LOCO,Dubai,Abu Dhabi,100,0
+LOCO,Dubai,Abu Dhabi,200,0
+LOCO,Montreal,Dubai,0,0
+LOCO,Montreal,Dubai,1,0
+LOCO,Montreal,Dubai,5,0
+LOCO,Montreal,Dubai,10,0
+LOCO,Montreal,Dubai,20,0
+LOCO,Montreal,Dubai,50,0
+LOCO,Montreal,Dubai,100,0
+LOCO,Montreal,Dubai,200,0
+LOCO,Toronto,Montreal,0,0
+LOCO,Toronto,Montreal,1,0
+LOCO,Toronto,Montreal,5,0
+LOCO,Toronto,Montreal,10,0
+LOCO,Toronto,Montreal,20,0
+LOCO,Toronto,Montreal,50,0
+LOCO,Toronto,Montreal,100,0
+LOCO,Toronto,Montreal,200,0
+LOCO,Vancouver,Toronto,0,0
+LOCO,Vancouver,Toronto,1,0
+LOCO,Vancouver,Toronto,5,0
+LOCO,Vancouver,Toronto,10,0
+LOCO,Vancouver,Toronto,20,0
+LOCO,Vancouver,Toronto,50,0
+LOCO,Vancouver,Toronto,100,0
+LOCO,Vancouver,Toronto,200,0
+LOCO,MexicoCity,Vancouver,0,0
+LOCO,MexicoCity,Vancouver,1,0
+LOCO,MexicoCity,Vancouver,5,0
+LOCO,MexicoCity,Vancouver,10,0
+LOCO,MexicoCity,Vancouver,20,0
+LOCO,MexicoCity,Vancouver,50,0
+LOCO,MexicoCity,Vancouver,100,0
+LOCO,MexicoCity,Vancouver,200,0
+LOCO,Atlanta,MexicoCity,0,0
+LOCO,Atlanta,MexicoCity,1,0
+LOCO,Atlanta,MexicoCity,5,0
+LOCO,Atlanta,MexicoCity,10,0
+LOCO,Atlanta,MexicoCity,20,0
+LOCO,Atlanta,MexicoCity,50,0
+LOCO,Atlanta,MexicoCity,100,0
+LOCO,Atlanta,MexicoCity,200,0
+LOCO,Chicago,Atlanta,0,0
+LOCO,Chicago,Atlanta,1,0
+LOCO,Chicago,Atlanta,5,0
+LOCO,Chicago,Atlanta,10,0
+LOCO,Chicago,Atlanta,20,0
+LOCO,Chicago,Atlanta,50,0
+LOCO,Chicago,Atlanta,100,0
+LOCO,Chicago,Atlanta,200,0
+LOCO,Dallas,Chicago,0,0
+LOCO,Dallas,Chicago,1,0
+LOCO,Dallas,Chicago,5,0
+LOCO,Dallas,Chicago,10,0
+LOCO,Dallas,Chicago,20,0
+LOCO,Dallas,Chicago,50,0
+LOCO,Dallas,Chicago,100,0
+LOCO,Dallas,Chicago,200,0
+LOCO,Detroit,Dallas,0,0
+LOCO,Detroit,Dallas,1,0
+LOCO,Detroit,Dallas,5,0
+LOCO,Detroit,Dallas,10,0
+LOCO,Detroit,Dallas,20,0
+LOCO,Detroit,Dallas,50,0
+LOCO,Detroit,Dallas,100,0
+LOCO,Detroit,Dallas,200,0
+LOCO,Houston,Detroit,0,0
+LOCO,Houston,Detroit,1,0
+LOCO,Houston,Detroit,5,0
+LOCO,Houston,Detroit,10,0
+LOCO,Houston,Detroit,20,0
+LOCO,Houston,Detroit,50,0
+LOCO,Houston,Detroit,100,0
+LOCO,Houston,Detroit,200,0
+LOCO,LosAngeles,Houston,0,0
+LOCO,LosAngeles,Houston,1,0
+LOCO,LosAngeles,Houston,5,0
+LOCO,LosAngeles,Houston,10,0
+LOCO,LosAngeles,Houston,20,0
+LOCO,LosAngeles,Houston,50,0
+LOCO,LosAngeles,Houston,100,0
+LOCO,LosAngeles,Houston,200,0
+LOCO,Miami,LosAngeles,0,0
+LOCO,Miami,LosAngeles,1,0
+LOCO,Miami,LosAngeles,5,0
+LOCO,Miami,LosAngeles,10,0
+LOCO,Miami,LosAngeles,20,0
+LOCO,Miami,LosAngeles,50,0
+LOCO,Miami,LosAngeles,100,0
+LOCO,Miami,LosAngeles,200,0
+LOCO,NewYork,Miami,0,0
+LOCO,NewYork,Miami,1,0
+LOCO,NewYork,Miami,5,0
+LOCO,NewYork,Miami,10,0
+LOCO,NewYork,Miami,20,0
+LOCO,NewYork,Miami,50,0
+LOCO,NewYork,Miami,100,0
+LOCO,NewYork,Miami,200,0
+LOCO,Phoenix,NewYork,0,0
+LOCO,Phoenix,NewYork,1,0
+LOCO,Phoenix,NewYork,5,0
+LOCO,Phoenix,NewYork,10,0
+LOCO,Phoenix,NewYork,20,0
+LOCO,Phoenix,NewYork,50,0
+LOCO,Phoenix,NewYork,100,0
+LOCO,Phoenix,NewYork,200,0
+LOCO,San Diego,Phoenix,0,0
+LOCO,San Diego,Phoenix,1,0
+LOCO,San Diego,Phoenix,5,0
+LOCO,San Diego,Phoenix,10,0
+LOCO,San Diego,Phoenix,20,0
+LOCO,San Diego,Phoenix,50,0
+LOCO,San Diego,Phoenix,100,0
+LOCO,San Diego,Phoenix,200,0
+LOCO,Adelaide,San Diego,0,0
+LOCO,Adelaide,San Diego,1,0
+LOCO,Adelaide,San Diego,5,0
+LOCO,Adelaide,San Diego,10,0
+LOCO,Adelaide,San Diego,20,0
+LOCO,Adelaide,San Diego,50,0
+LOCO,Adelaide,San Diego,100,0
+LOCO,Adelaide,San Diego,200,0
+LOCO,Perth,Adelaide,0,0
+LOCO,Perth,Adelaide,1,0
+LOCO,Perth,Adelaide,5,0
+LOCO,Perth,Adelaide,10,0
+LOCO,Perth,Adelaide,20,0
+LOCO,Perth,Adelaide,50,0
+LOCO,Perth,Adelaide,100,0
+LOCO,Perth,Adelaide,200,0
+LOCO,Auckland,Perth,0,0
+LOCO,Auckland,Perth,1,0
+LOCO,Auckland,Perth,5,0
+LOCO,Auckland,Perth,10,0
+LOCO,Auckland,Perth,20,0
+LOCO,Auckland,Perth,50,0
+LOCO,Auckland,Perth,100,0
+LOCO,Auckland,Perth,200,0
+LOCO,Wellington,Auckland,0,0
+LOCO,Wellington,Auckland,1,0
+LOCO,Wellington,Auckland,5,0
+LOCO,Wellington,Auckland,10,0
+LOCO,Wellington,Auckland,20,0
+LOCO,Wellington,Auckland,50,0
+LOCO,Wellington,Auckland,100,0
+LOCO,Wellington,Auckland,200,0
+LOCO,Buenos Aires,Wellington,0,0
+LOCO,Buenos Aires,Wellington,1,0
+LOCO,Buenos Aires,Wellington,5,0
+LOCO,Buenos Aires,Wellington,10,0
+LOCO,Buenos Aires,Wellington,20,0
+LOCO,Buenos Aires,Wellington,50,0
+LOCO,Buenos Aires,Wellington,100,0
+LOCO,Buenos Aires,Wellington,200,0
+LOCO,La Paz,Buenos Aires,0,0
+LOCO,La Paz,Buenos Aires,1,0
+LOCO,La Paz,Buenos Aires,5,0
+LOCO,La Paz,Buenos Aires,10,0
+LOCO,La Paz,Buenos Aires,20,0
+LOCO,La Paz,Buenos Aires,50,0
+LOCO,La Paz,Buenos Aires,100,0
+LOCO,La Paz,Buenos Aires,200,0
+LOCO,Brasília,La Paz,0,0
+LOCO,Brasília,La Paz,1,0
+LOCO,Brasília,La Paz,5,0
+LOCO,Brasília,La Paz,10,0
+LOCO,Brasília,La Paz,20,0
+LOCO,Brasília,La Paz,50,0
+LOCO,Brasília,La Paz,100,0
+LOCO,Brasília,La Paz,200,0
+LOCO,Rio de Janeiro,Brasília,0,0
+LOCO,Rio de Janeiro,Brasília,1,0
+LOCO,Rio de Janeiro,Brasília,5,0
+LOCO,Rio de Janeiro,Brasília,10,0
+LOCO,Rio de Janeiro,Brasília,20,0
+LOCO,Rio de Janeiro,Brasília,50,0
+LOCO,Rio de Janeiro,Brasília,100,0
+LOCO,Rio de Janeiro,Brasília,200,0
+LOCO,SaoPaulo,Rio de Janeiro,0,0
+LOCO,SaoPaulo,Rio de Janeiro,1,0
+LOCO,SaoPaulo,Rio de Janeiro,5,0
+LOCO,SaoPaulo,Rio de Janeiro,10,0
+LOCO,SaoPaulo,Rio de Janeiro,20,0
+LOCO,SaoPaulo,Rio de Janeiro,50,0
+LOCO,SaoPaulo,Rio de Janeiro,100,0
+LOCO,SaoPaulo,Rio de Janeiro,200,0
+LOCO,Santiago,SaoPaulo,0,0
+LOCO,Santiago,SaoPaulo,1,0
+LOCO,Santiago,SaoPaulo,5,0
+LOCO,Santiago,SaoPaulo,10,0
+LOCO,Santiago,SaoPaulo,20,0
+LOCO,Santiago,SaoPaulo,50,0
+LOCO,Santiago,SaoPaulo,100,0
+LOCO,Santiago,SaoPaulo,200,0
+LOCO,Bogota,Santiago,0,0
+LOCO,Bogota,Santiago,1,0
+LOCO,Bogota,Santiago,5,0
+LOCO,Bogota,Santiago,10,0
+LOCO,Bogota,Santiago,20,0
+LOCO,Bogota,Santiago,50,0
+LOCO,Bogota,Santiago,100,0
+LOCO,Bogota,Santiago,200,0
+LOCO,Bogotá,Bogota,0,0
+LOCO,Bogotá,Bogota,1,0
+LOCO,Bogotá,Bogota,5,0
+LOCO,Bogotá,Bogota,10,0
+LOCO,Bogotá,Bogota,20,0
+LOCO,Bogotá,Bogota,50,0
+LOCO,Bogotá,Bogota,100,0
+LOCO,Bogotá,Bogota,200,0
+LOCO,Cali,Bogotá,0,0
+LOCO,Cali,Bogotá,1,0
+LOCO,Cali,Bogotá,5,0
+LOCO,Cali,Bogotá,10,0
+LOCO,Cali,Bogotá,20,0
+LOCO,Cali,Bogotá,50,0
+LOCO,Cali,Bogotá,100,0
+LOCO,Cali,Bogotá,200,0
+LOCO,Guayaquil,Cali,0,0
+LOCO,Guayaquil,Cali,1,0
+LOCO,Guayaquil,Cali,5,0
+LOCO,Guayaquil,Cali,10,0
+LOCO,Guayaquil,Cali,20,0
+LOCO,Guayaquil,Cali,50,0
+LOCO,Guayaquil,Cali,100,0
+LOCO,Guayaquil,Cali,200,0
+LOCO,Quito,Guayaquil,0,0
+LOCO,Quito,Guayaquil,1,0
+LOCO,Quito,Guayaquil,5,0
+LOCO,Quito,Guayaquil,10,0
+LOCO,Quito,Guayaquil,20,0
+LOCO,Quito,Guayaquil,50,0
+LOCO,Quito,Guayaquil,100,0
+LOCO,Quito,Guayaquil,200,0
+LOCO,Asunción,Quito,0,0
+LOCO,Asunción,Quito,1,0
+LOCO,Asunción,Quito,5,0
+LOCO,Asunción,Quito,10,0
+LOCO,Asunción,Quito,20,0
+LOCO,Asunción,Quito,50,0
+LOCO,Asunción,Quito,100,0
+LOCO,Asunción,Quito,200,0
+LOCO,Lima,Asunción,0,0
+LOCO,Lima,Asunción,1,0
+LOCO,Lima,Asunción,5,0
+LOCO,Lima,Asunción,10,0
+LOCO,Lima,Asunción,20,0
+LOCO,Lima,Asunción,50,0
+LOCO,Lima,Asunción,100,0
+LOCO,Lima,Asunción,200,0
+LOCO,Caracas,Lima,0,0
+LOCO,Caracas,Lima,1,0
+LOCO,Caracas,Lima,5,0
+LOCO,Caracas,Lima,10,0
+LOCO,Caracas,Lima,20,0
+LOCO,Caracas,Lima,50,0
+LOCO,Caracas,Lima,100,0
+LOCO,Caracas,Lima,200,0
+LOCO,Dhaka,Caracas,0,0
+LOCO,Dhaka,Caracas,1,0
+LOCO,Dhaka,Caracas,5,0
+LOCO,Dhaka,Caracas,10,0
+LOCO,Dhaka,Caracas,20,0
+LOCO,Dhaka,Caracas,50,0
+LOCO,Dhaka,Caracas,100,0
+LOCO,Dhaka,Caracas,200,0
+LOCO,Bangalore,Dhaka,0,0
+LOCO,Bangalore,Dhaka,1,0
+LOCO,Bangalore,Dhaka,5,0
+LOCO,Bangalore,Dhaka,10,0
+LOCO,Bangalore,Dhaka,20,0
+LOCO,Bangalore,Dhaka,50,0
+LOCO,Bangalore,Dhaka,100,0
+LOCO,Bangalore,Dhaka,200,0
+LOCO,Bengaluru,Bangalore,0,0
+LOCO,Bengaluru,Bangalore,1,0
+LOCO,Bengaluru,Bangalore,5,0
+LOCO,Bengaluru,Bangalore,10,0
+LOCO,Bengaluru,Bangalore,20,0
+LOCO,Bengaluru,Bangalore,50,0
+LOCO,Bengaluru,Bangalore,100,0
+LOCO,Bengaluru,Bangalore,200,0
+LOCO,Chennai,Bengaluru,0,0
+LOCO,Chennai,Bengaluru,1,0
+LOCO,Chennai,Bengaluru,5,0
+LOCO,Chennai,Bengaluru,10,0
+LOCO,Chennai,Bengaluru,20,0
+LOCO,Chennai,Bengaluru,50,0
+LOCO,Chennai,Bengaluru,100,0
+LOCO,Chennai,Bengaluru,200,0
+LOCO,Delhi,Chennai,0,0
+LOCO,Delhi,Chennai,1,0
+LOCO,Delhi,Chennai,5,0
+LOCO,Delhi,Chennai,10,0
+LOCO,Delhi,Chennai,20,0
+LOCO,Delhi,Chennai,50,0
+LOCO,Delhi,Chennai,100,0
+LOCO,Delhi,Chennai,200,0
+LOCO,Hyderabad,Delhi,0,0
+LOCO,Hyderabad,Delhi,1,0
+LOCO,Hyderabad,Delhi,5,0
+LOCO,Hyderabad,Delhi,10,0
+LOCO,Hyderabad,Delhi,20,0
+LOCO,Hyderabad,Delhi,50,0
+LOCO,Hyderabad,Delhi,100,0
+LOCO,Hyderabad,Delhi,200,0
+LOCO,Lucknow,Hyderabad,0,0
+LOCO,Lucknow,Hyderabad,1,0
+LOCO,Lucknow,Hyderabad,5,0
+LOCO,Lucknow,Hyderabad,10,0
+LOCO,Lucknow,Hyderabad,20,0
+LOCO,Lucknow,Hyderabad,50,0
+LOCO,Lucknow,Hyderabad,100,0
+LOCO,Lucknow,Hyderabad,200,0
+LOCO,Mumbai,Lucknow,0,0
+LOCO,Mumbai,Lucknow,1,0
+LOCO,Mumbai,Lucknow,5,0
+LOCO,Mumbai,Lucknow,10,0
+LOCO,Mumbai,Lucknow,20,0
+LOCO,Mumbai,Lucknow,50,0
+LOCO,Mumbai,Lucknow,100,0
+LOCO,Mumbai,Lucknow,200,0
+LOCO,Pune,Mumbai,0,0
+LOCO,Pune,Mumbai,1,0
+LOCO,Pune,Mumbai,5,0
+LOCO,Pune,Mumbai,10,0
+LOCO,Pune,Mumbai,20,0
+LOCO,Pune,Mumbai,50,0
+LOCO,Pune,Mumbai,100,0
+LOCO,Pune,Mumbai,200,0
+LOCO,Islamabad,Pune,0,0
+LOCO,Islamabad,Pune,1,0
+LOCO,Islamabad,Pune,5,0
+LOCO,Islamabad,Pune,10,0
+LOCO,Islamabad,Pune,20,0
+LOCO,Islamabad,Pune,50,0
+LOCO,Islamabad,Pune,100,0
+LOCO,Islamabad,Pune,200,0
+LOCO,Karachi,Islamabad,0,0
+LOCO,Karachi,Islamabad,1,0
+LOCO,Karachi,Islamabad,5,0
+LOCO,Karachi,Islamabad,10,0
+LOCO,Karachi,Islamabad,20,0
+LOCO,Karachi,Islamabad,50,0
+LOCO,Karachi,Islamabad,100,0
+LOCO,Karachi,Islamabad,200,0
+LOCO,Colombo,Karachi,0,0
+LOCO,Colombo,Karachi,1,0
+LOCO,Colombo,Karachi,5,0
+LOCO,Colombo,Karachi,10,0
+LOCO,Colombo,Karachi,20,0
+LOCO,Colombo,Karachi,50,0
+LOCO,Colombo,Karachi,100,0
+LOCO,Colombo,Karachi,200,0
+LOCO,Phnom Penh,Colombo,0,0
+LOCO,Phnom Penh,Colombo,1,0
+LOCO,Phnom Penh,Colombo,5,0
+LOCO,Phnom Penh,Colombo,10,0
+LOCO,Phnom Penh,Colombo,20,0
+LOCO,Phnom Penh,Colombo,50,0
+LOCO,Phnom Penh,Colombo,100,0
+LOCO,Phnom Penh,Colombo,200,0
+LOCO,Jakarta,Phnom Penh,0,0
+LOCO,Jakarta,Phnom Penh,1,0
+LOCO,Jakarta,Phnom Penh,5,0
+LOCO,Jakarta,Phnom Penh,10,0
+LOCO,Jakarta,Phnom Penh,20,0
+LOCO,Jakarta,Phnom Penh,50,0
+LOCO,Jakarta,Phnom Penh,100,0
+LOCO,Jakarta,Phnom Penh,200,0
+LOCO,Surabaya,Jakarta,0,0
+LOCO,Surabaya,Jakarta,1,0
+LOCO,Surabaya,Jakarta,5,0
+LOCO,Surabaya,Jakarta,10,0
+LOCO,Surabaya,Jakarta,20,0
+LOCO,Surabaya,Jakarta,50,0
+LOCO,Surabaya,Jakarta,100,0
+LOCO,Surabaya,Jakarta,200,0
+LOCO,Vientiane,Surabaya,0,0
+LOCO,Vientiane,Surabaya,1,0
+LOCO,Vientiane,Surabaya,5,0
+LOCO,Vientiane,Surabaya,10,0
+LOCO,Vientiane,Surabaya,20,0
+LOCO,Vientiane,Surabaya,50,0
+LOCO,Vientiane,Surabaya,100,0
+LOCO,Vientiane,Surabaya,200,0
+LOCO,Kuala Lumpur,Vientiane,0,0
+LOCO,Kuala Lumpur,Vientiane,1,0
+LOCO,Kuala Lumpur,Vientiane,5,0
+LOCO,Kuala Lumpur,Vientiane,10,0
+LOCO,Kuala Lumpur,Vientiane,20,0
+LOCO,Kuala Lumpur,Vientiane,50,0
+LOCO,Kuala Lumpur,Vientiane,100,0
+LOCO,Kuala Lumpur,Vientiane,200,0
+LOCO,Yangon,Kuala Lumpur,0,0
+LOCO,Yangon,Kuala Lumpur,1,0
+LOCO,Yangon,Kuala Lumpur,5,0
+LOCO,Yangon,Kuala Lumpur,10,0
+LOCO,Yangon,Kuala Lumpur,20,0
+LOCO,Yangon,Kuala Lumpur,50,0
+LOCO,Yangon,Kuala Lumpur,100,0
+LOCO,Yangon,Kuala Lumpur,200,0
+LOCO,Manila,Yangon,0,0
+LOCO,Manila,Yangon,1,0
+LOCO,Manila,Yangon,5,0
+LOCO,Manila,Yangon,10,0
+LOCO,Manila,Yangon,20,0
+LOCO,Manila,Yangon,50,0
+LOCO,Manila,Yangon,100,0
+LOCO,Manila,Yangon,200,0
+LOCO,Singapore,Manila,0,0
+LOCO,Singapore,Manila,1,0
+LOCO,Singapore,Manila,5,0
+LOCO,Singapore,Manila,10,0
+LOCO,Singapore,Manila,20,0
+LOCO,Singapore,Manila,50,0
+LOCO,Singapore,Manila,100,0
+LOCO,Singapore,Manila,200,0
+LOCO,Bangkok,Singapore,0,0
+LOCO,Bangkok,Singapore,1,0
+LOCO,Bangkok,Singapore,5,0
+LOCO,Bangkok,Singapore,10,0
+LOCO,Bangkok,Singapore,20,0
+LOCO,Bangkok,Singapore,50,0
+LOCO,Bangkok,Singapore,100,0
+LOCO,Bangkok,Singapore,200,0
+LOCO,Hanoi,Bangkok,0,0
+LOCO,Hanoi,Bangkok,1,0
+LOCO,Hanoi,Bangkok,5,0
+LOCO,Hanoi,Bangkok,10,0
+LOCO,Hanoi,Bangkok,20,0
+LOCO,Hanoi,Bangkok,50,0
+LOCO,Hanoi,Bangkok,100,0
+LOCO,Hanoi,Bangkok,200,0
+LOCO,Algiers,Hanoi,0,0
+LOCO,Algiers,Hanoi,1,0
+LOCO,Algiers,Hanoi,5,0
+LOCO,Algiers,Hanoi,10,0
+LOCO,Algiers,Hanoi,20,0
+LOCO,Algiers,Hanoi,50,0
+LOCO,Algiers,Hanoi,100,0
+LOCO,Algiers,Hanoi,200,0

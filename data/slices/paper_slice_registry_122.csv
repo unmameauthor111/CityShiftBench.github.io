@@ -1,0 +1,192 @@
+slice_id,city,display_city,country,region,membership_source,locked,parent_slice,active_for_paper,active_for_scale
+audited9,Beijing,Beijing,China,East Asia,fixed9_runner,True,structural43,True,False
+audited9,HongKong,HongKong,China,East Asia,fixed9_runner,True,structural43,True,False
+audited9,London,London,UK,Europe,fixed9_runner,True,structural43,True,False
+audited9,NewYork,NewYork,USA,North America,fixed9_runner,True,structural43,True,False
+audited9,Paris,Paris,France,Europe,fixed9_runner,True,structural43,True,False
+audited9,Seoul,Seoul,South Korea,East Asia,fixed9_runner,True,structural43,True,False
+audited9,Shanghai,Shanghai,China,East Asia,fixed9_runner,True,structural43,True,False
+audited9,Singapore,Singapore,Singapore,Southeast Asia,fixed9_runner,True,structural43,True,False
+audited9,Tokyo,Tokyo,Japan,East Asia,fixed9_runner,True,structural43,True,False
+structural43,Accra,Accra,Ghana,Africa,legacy43_manifest,True,scale122,True,True
+structural43,AddisAbaba,Addis Ababa,Ethiopia,Africa,legacy43_manifest,True,scale122,True,True
+structural43,Amsterdam,Amsterdam,Netherlands,Europe,legacy43_manifest,True,scale122,True,True
+structural43,Bangkok,Bangkok,Thailand,Southeast Asia,legacy43_manifest,True,scale122,True,True
+structural43,Beijing,Beijing,China,East Asia,legacy43_manifest,True,scale122,True,True
+structural43,Bengaluru,Bengaluru,India,South Asia,legacy43_manifest,True,scale122,True,True
+structural43,Berlin,Berlin,Germany,Europe,legacy43_manifest,True,scale122,True,True
+structural43,Bogota,Bogota,Colombia,South America,legacy43_manifest,True,scale122,True,True
+structural43,BuenosAires,Buenos Aires,Argentina,South America,legacy43_manifest,True,scale122,True,True
+structural43,Cairo,Cairo,Egypt,Africa,legacy43_manifest,True,scale122,True,True
+structural43,CapeTown,Cape Town,South Africa,Africa,legacy43_manifest,True,scale122,True,True
+structural43,Chicago,Chicago,USA,North America,legacy43_manifest,True,scale122,True,True
+structural43,Delhi,Delhi,India,South Asia,legacy43_manifest,True,scale122,True,True
+structural43,Dubai,Dubai,UAE,Middle East,legacy43_manifest,True,scale122,True,True
+structural43,Hanoi,Hanoi,Vietnam,Southeast Asia,legacy43_manifest,True,scale122,True,True
+structural43,HongKong,HongKong,China,East Asia,legacy43_manifest,True,scale122,True,True
+structural43,Istanbul,Istanbul,Turkey,Middle East,legacy43_manifest,True,scale122,True,True
+structural43,Jakarta,Jakarta,Indonesia,Southeast Asia,legacy43_manifest,True,scale122,True,True
+structural43,Johannesburg,Johannesburg,South Africa,Africa,legacy43_manifest,True,scale122,True,True
+structural43,KualaLumpur,Kuala Lumpur,Malaysia,Southeast Asia,legacy43_manifest,True,scale122,True,True
+structural43,Lagos,Lagos,Nigeria,Africa,legacy43_manifest,True,scale122,True,True
+structural43,Lima,Lima,Peru,South America,legacy43_manifest,True,scale122,True,True
+structural43,London,London,UK,Europe,legacy43_manifest,True,scale122,True,True
+structural43,LosAngeles,LosAngeles,USA,North America,legacy43_manifest,True,scale122,True,True
+structural43,Madrid,Madrid,Spain,Europe,legacy43_manifest,True,scale122,True,True
+structural43,Manila,Manila,Philippines,Southeast Asia,legacy43_manifest,True,scale122,True,True
+structural43,MexicoCity,MexicoCity,Mexico,North America,legacy43_manifest,True,scale122,True,True
+structural43,Mumbai,Mumbai,India,South Asia,legacy43_manifest,True,scale122,True,True
+structural43,Nairobi,Nairobi,Kenya,Africa,legacy43_manifest,True,scale122,True,True
+structural43,NewYork,NewYork,USA,North America,legacy43_manifest,True,scale122,True,True
+structural43,Paris,Paris,France,Europe,legacy43_manifest,True,scale122,True,True
+structural43,RioDeJaneiro,Rio de Janeiro,Brazil,South America,legacy43_manifest,True,scale122,True,True
+structural43,Riyadh,Riyadh,Saudi Arabia,Middle East,legacy43_manifest,True,scale122,True,True
+structural43,Rome,Rome,Italy,Europe,legacy43_manifest,True,scale122,True,True
+structural43,Santiago,Santiago,Chile,South America,legacy43_manifest,True,scale122,True,True
+structural43,SaoPaulo,SaoPaulo,Brazil,South America,legacy43_manifest,True,scale122,True,True
+structural43,Seoul,Seoul,South Korea,East Asia,legacy43_manifest,True,scale122,True,True
+structural43,Shanghai,Shanghai,China,East Asia,legacy43_manifest,True,scale122,True,True
+structural43,Singapore,Singapore,Singapore,Southeast Asia,legacy43_manifest,True,scale122,True,True
+structural43,Tokyo,Tokyo,Japan,East Asia,legacy43_manifest,True,scale122,True,True
+structural43,Toronto,Toronto,Canada,North America,legacy43_manifest,True,scale122,True,True
+structural43,Vancouver,Vancouver,Canada,North America,legacy43_manifest,True,scale122,True,True
+structural43,Vienna,Vienna,Austria,Europe,legacy43_manifest,True,scale122,True,True
+heldout17,Lagos,Lagos,Nigeria,Africa,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Nairobi,Nairobi,Kenya,Africa,sensitivity_eval_cities,True,structural43,True,False
+heldout17,RioDeJaneiro,Rio de Janeiro,Brazil,South America,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Paris,Paris,France,Europe,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Tokyo,Tokyo,Japan,East Asia,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Toronto,Toronto,Canada,North America,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Accra,Accra,Ghana,Africa,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Chicago,Chicago,USA,North America,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Seoul,Seoul,South Korea,East Asia,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Delhi,Delhi,India,South Asia,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Johannesburg,Johannesburg,South Africa,Africa,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Dubai,Dubai,UAE,Middle East,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Singapore,Singapore,Singapore,Southeast Asia,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Mumbai,Mumbai,India,South Asia,sensitivity_eval_cities,True,structural43,True,False
+heldout17,NewYork,NewYork,USA,North America,sensitivity_eval_cities,True,structural43,True,False
+heldout17,CapeTown,Cape Town,South Africa,Africa,sensitivity_eval_cities,True,structural43,True,False
+heldout17,Cairo,Cairo,Egypt,Africa,sensitivity_eval_cities,True,structural43,True,False
+scale122,Algiers,Algiers,Algeria,Africa,normalized_union_96_43,True,,False,True
+scale122,Luanda,Luanda,Angola,Africa,normalized_union_96_43,True,,False,True
+scale122,Abidjan,Abidjan,Côte d'Ivoire,Africa,normalized_union_96_43,True,,False,True
+scale122,Kinshasa,Kinshasa,DR Congo,Africa,normalized_union_96_43,True,,False,True
+scale122,Cairo,Cairo,Egypt,Africa,normalized_union_96_43,True,,False,True
+scale122,AddisAbaba,Addis Ababa,Ethiopia,Africa,normalized_union_96_43,True,,False,True
+scale122,Accra,Accra,Ghana,Africa,normalized_union_96_43,True,,False,True
+scale122,Nairobi,Nairobi,Kenya,Africa,normalized_union_96_43,True,,False,True
+scale122,Casablanca,Casablanca,Morocco,Africa,normalized_union_96_43,True,,False,True
+scale122,Maputo,Maputo,Mozambique,Africa,normalized_union_96_43,True,,False,True
+scale122,Lagos,Lagos,Nigeria,Africa,normalized_union_96_43,True,,False,True
+scale122,Dakar,Dakar,Senegal,Africa,normalized_union_96_43,True,,False,True
+scale122,CapeTown,Cape Town,South Africa,Africa,normalized_union_96_43,True,,False,True
+scale122,Johannesburg,Johannesburg,South Africa,Africa,normalized_union_96_43,True,,False,True
+scale122,Khartoum,Khartoum,Sudan,Africa,normalized_union_96_43,True,,False,True
+scale122,Tunis,Tunis,Tunisia,Africa,normalized_union_96_43,True,,False,True
+scale122,Kampala,Kampala,Uganda,Africa,normalized_union_96_43,True,,False,True
+scale122,Beijing,Beijing,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Changchun,Changchun,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Changsha,Changsha,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Chengdu,Chengdu,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Chongqing,Chongqing,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Dalian,Dalian,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Dongguan,Dongguan,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Guangzhou,Guangzhou,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Harbin,Harbin,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Hefei,Hefei,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,HongKong,HongKong,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Kunming,Kunming,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Lanzhou,Lanzhou,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Lhasa,Lhasa,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Shanghai,Shanghai,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Shenyang,Shenyang,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Shenzhen,Shenzhen,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Shijiazhuang,Shijiazhuang,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Suzhou,Suzhou,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Taiyuan,Taiyuan,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Urumqi,Urumqi,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Xi'an,Xi'an,China,East Asia,normalized_union_96_43,True,,False,True
+scale122,Tokyo,Tokyo,Japan,East Asia,normalized_union_96_43,True,,False,True
+scale122,Busan,Busan,South Korea,East Asia,normalized_union_96_43,True,,False,True
+scale122,Seoul,Seoul,South Korea,East Asia,normalized_union_96_43,True,,False,True
+scale122,Vienna,Vienna,Austria,Europe,normalized_union_96_43,True,,False,True
+scale122,Brussels,Brussels,Belgium,Europe,normalized_union_96_43,True,,False,True
+scale122,Prague,Prague,Czech Republic,Europe,normalized_union_96_43,True,,False,True
+scale122,Copenhagen,Copenhagen,Denmark,Europe,normalized_union_96_43,True,,False,True
+scale122,Helsinki,Helsinki,Finland,Europe,normalized_union_96_43,True,,False,True
+scale122,Paris,Paris,France,Europe,normalized_union_96_43,True,,False,True
+scale122,Berlin,Berlin,Germany,Europe,normalized_union_96_43,True,,False,True
+scale122,Budapest,Budapest,Hungary,Europe,normalized_union_96_43,True,,False,True
+scale122,Dublin,Dublin,Ireland,Europe,normalized_union_96_43,True,,False,True
+scale122,Rome,Rome,Italy,Europe,normalized_union_96_43,True,,False,True
+scale122,Amsterdam,Amsterdam,Netherlands,Europe,normalized_union_96_43,True,,False,True
+scale122,Lisbon,Lisbon,Portugal,Europe,normalized_union_96_43,True,,False,True
+scale122,Barcelona,Barcelona,Spain,Europe,normalized_union_96_43,True,,False,True
+scale122,Madrid,Madrid,Spain,Europe,normalized_union_96_43,True,,False,True
+scale122,Zurich,Zurich,Switzerland,Europe,normalized_union_96_43,True,,False,True
+scale122,London,London,UK,Europe,normalized_union_96_43,True,,False,True
+scale122,Baghdad,Baghdad,Iraq,Middle East,normalized_union_96_43,True,,False,True
+scale122,KuwaitCity,Kuwait City,Kuwait,Middle East,normalized_union_96_43,True,,False,True
+scale122,Beirut,Beirut,Lebanon,Middle East,normalized_union_96_43,True,,False,True
+scale122,Doha,Doha,Qatar,Middle East,normalized_union_96_43,True,,False,True
+scale122,Jeddah,Jeddah,Saudi Arabia,Middle East,normalized_union_96_43,True,,False,True
+scale122,Riyadh,Riyadh,Saudi Arabia,Middle East,normalized_union_96_43,True,,False,True
+scale122,Istanbul,Istanbul,Turkey,Middle East,normalized_union_96_43,True,,False,True
+scale122,AbuDhabi,Abu Dhabi,UAE,Middle East,normalized_union_96_43,True,,False,True
+scale122,Dubai,Dubai,UAE,Middle East,normalized_union_96_43,True,,False,True
+scale122,Montreal,Montreal,Canada,North America,normalized_union_96_43,True,,False,True
+scale122,Toronto,Toronto,Canada,North America,normalized_union_96_43,True,,False,True
+scale122,Vancouver,Vancouver,Canada,North America,normalized_union_96_43,True,,False,True
+scale122,MexicoCity,MexicoCity,Mexico,North America,normalized_union_96_43,True,,False,True
+scale122,Atlanta,Atlanta,USA,North America,normalized_union_96_43,True,,False,True
+scale122,Chicago,Chicago,USA,North America,normalized_union_96_43,True,,False,True
+scale122,Dallas,Dallas,USA,North America,normalized_union_96_43,True,,False,True
+scale122,Detroit,Detroit,USA,North America,normalized_union_96_43,True,,False,True
+scale122,Houston,Houston,USA,North America,normalized_union_96_43,True,,False,True
+scale122,LosAngeles,LosAngeles,USA,North America,normalized_union_96_43,True,,False,True
+scale122,Miami,Miami,USA,North America,normalized_union_96_43,True,,False,True
+scale122,NewYork,NewYork,USA,North America,normalized_union_96_43,True,,False,True
+scale122,Phoenix,Phoenix,USA,North America,normalized_union_96_43,True,,False,True
+scale122,SanDiego,San Diego,USA,North America,normalized_union_96_43,True,,False,True
+scale122,Adelaide,Adelaide,Australia,Oceania,normalized_union_96_43,True,,False,True
+scale122,Perth,Perth,Australia,Oceania,normalized_union_96_43,True,,False,True
+scale122,Auckland,Auckland,New Zealand,Oceania,normalized_union_96_43,True,,False,True
+scale122,Wellington,Wellington,New Zealand,Oceania,normalized_union_96_43,True,,False,True
+scale122,BuenosAires,Buenos Aires,Argentina,South America,normalized_union_96_43,True,,False,True
+scale122,LaPaz,La Paz,Bolivia,South America,normalized_union_96_43,True,,False,True
+scale122,Brasília,Brasília,Brazil,South America,normalized_union_96_43,True,,False,True
+scale122,RioDeJaneiro,Rio de Janeiro,Brazil,South America,normalized_union_96_43,True,,False,True
+scale122,SaoPaulo,SaoPaulo,Brazil,South America,normalized_union_96_43,True,,False,True
+scale122,Santiago,Santiago,Chile,South America,normalized_union_96_43,True,,False,True
+scale122,Bogota,Bogota,Colombia,South America,normalized_union_96_43,True,,False,True
+scale122,Bogotá,Bogotá,Colombia,South America,normalized_union_96_43,True,,False,True
+scale122,Cali,Cali,Colombia,South America,normalized_union_96_43,True,,False,True
+scale122,Guayaquil,Guayaquil,Ecuador,South America,normalized_union_96_43,True,,False,True
+scale122,Quito,Quito,Ecuador,South America,normalized_union_96_43,True,,False,True
+scale122,Asunción,Asunción,Paraguay,South America,normalized_union_96_43,True,,False,True
+scale122,Lima,Lima,Peru,South America,normalized_union_96_43,True,,False,True
+scale122,Caracas,Caracas,Venezuela,South America,normalized_union_96_43,True,,False,True
+scale122,Dhaka,Dhaka,Bangladesh,South Asia,normalized_union_96_43,True,,False,True
+scale122,Bangalore,Bangalore,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Bengaluru,Bengaluru,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Chennai,Chennai,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Delhi,Delhi,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Hyderabad,Hyderabad,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Kolkata,Kolkata,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Lucknow,Lucknow,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Mumbai,Mumbai,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Pune,Pune,India,South Asia,normalized_union_96_43,True,,False,True
+scale122,Islamabad,Islamabad,Pakistan,South Asia,normalized_union_96_43,True,,False,True
+scale122,Karachi,Karachi,Pakistan,South Asia,normalized_union_96_43,True,,False,True
+scale122,Colombo,Colombo,Sri Lanka,South Asia,normalized_union_96_43,True,,False,True
+scale122,PhnomPenh,Phnom Penh,Cambodia,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Jakarta,Jakarta,Indonesia,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Surabaya,Surabaya,Indonesia,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Vientiane,Vientiane,Laos,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,KualaLumpur,Kuala Lumpur,Malaysia,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Yangon,Yangon,Myanmar,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Manila,Manila,Philippines,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Singapore,Singapore,Singapore,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Bangkok,Bangkok,Thailand,Southeast Asia,normalized_union_96_43,True,,False,True
+scale122,Hanoi,Hanoi,Vietnam,Southeast Asia,normalized_union_96_43,True,,False,True

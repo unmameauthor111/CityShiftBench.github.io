@@ -1,0 +1,16 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Scale-122 matched city-wise SATCA contrasts at $k=10$. Both structural targets improve on average under strict city isolation; Connectivity remains more heterogeneous by city count.}
+\label{tab:scale122-satca-paired-v7}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllllll}
+\toprule
+Slice & Target & Cities & Source $R^2$ & SATCA $R^2$ & $\Delta R^2$ & 95\% CI & Holm $p$ & +/- cities \\
+\midrule
+Scale-122 & Road & 118 & 0.398 & 0.514 & +0.116 & [0.078, 0.162] & 2.46e-11 & 92/26 \\
+Scale-122 & Connectivity & 118 & 0.463 & 0.584 & +0.120 & [0.046, 0.240] & 1.97e-05 & 74/44 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

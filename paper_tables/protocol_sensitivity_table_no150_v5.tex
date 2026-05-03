@@ -1,0 +1,18 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Protocol sensitivity on Structural-43. Random splits, in-city splits, and LOCO evaluation answer different questions.}
+\label{tab:protocol-sensitivity-v5}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllll}
+\toprule
+Target & Baseline & Random $R^2$ & In-city $R^2$ & LOCO $R^2$ & Random--LOCO & LOCO neg. $R^2$ & LOCO +/- \\
+\midrule
+Connectivity & ridge & 0.466 & -1.917 & -0.266 & +0.732 & 0.279 & 31/12 \\
+Connectivity & tabular knn & 0.436 & -0.338 & 0.059 & +0.378 & 0.256 & 32/11 \\
+Road & ridge & 0.571 & -0.816 & 0.213 & +0.358 & 0.209 & 34/9 \\
+Road & tabular knn & 0.429 & -1.055 & 0.013 & +0.415 & 0.349 & 28/15 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

@@ -1,0 +1,32 @@
+\begin{table*}[t]
+\centering
+\setlength{\tabcolsep}{3.2pt}
+\renewcommand{\arraystretch}{0.88}
+\scriptsize
+\caption{Scale-122 method comparison at $k=10$. Paired tests are in Table~\ref{tab:neurips-ed-evidence-ladder-v8}.}
+\label{tab:neurips-ed-method-point-v8}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllllll}
+\toprule
+Target & Method / contrast & Family & Cities & $R^2$ & RMSE & MAE & Neg. $R^2$ & +/- cities \\
+\midrule
+Road & Full SATCA & SATCA probe & 118 & 0.514 & 171.355 & 120.086 & 0.034 & 114/4 \\
+Road & SATCA-source & SATCA probe & 118 & 0.398 & 189.317 & 132.118 & 0.127 & 103/15 \\
+Road & Target-only ridge & Standard baseline & 118 & 0.137 & 228.799 & 165.353 & 0.271 & 86/32 \\
+Road & Tabular kNN & Standard baseline & 118 & -0.016 & 238.246 & 167.832 & 0.331 & 79/39 \\
+Road & Importance-weighted ridge & Standard baseline & 118 & 0.054 & 221.128 & 163.621 & 0.305 & 82/36 \\
+Road & Pooled ridge & Standard baseline & 118 & -0.201 & 236.145 & 176.962 & 0.381 & 73/45 \\
+Road & Source-only ridge & Standard baseline & 118 & -0.207 & 236.551 & 177.326 & 0.381 & 73/45 \\
+Road & CORAL ridge & Standard baseline & 118 & -4.748 & 373.013 & 294.036 & 0.720 & 33/85 \\
+Connectivity & Full SATCA & SATCA probe & 118 & 0.584 & 6.946 & 4.714 & 0.008 & 117/1 \\
+Connectivity & SATCA-source & SATCA probe & 118 & 0.463 & 8.394 & 5.722 & 0.042 & 113/5 \\
+Connectivity & Target-only ridge & Standard baseline & 118 & -0.127 & 10.430 & 7.171 & 0.288 & 84/34 \\
+Connectivity & Tabular kNN & Standard baseline & 118 & 0.101 & 9.781 & 6.482 & 0.254 & 88/30 \\
+Connectivity & Importance-weighted ridge & Standard baseline & 118 & -0.888 & 11.099 & 7.809 & 0.381 & 73/45 \\
+Connectivity & Pooled ridge & Standard baseline & 118 & -2.101 & 12.584 & 9.042 & 0.568 & 51/67 \\
+Connectivity & Source-only ridge & Standard baseline & 118 & -2.115 & 12.607 & 9.062 & 0.568 & 51/67 \\
+Connectivity & CORAL ridge & Standard baseline & 118 & -27.324 & 20.255 & 14.978 & 0.737 & 31/87 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

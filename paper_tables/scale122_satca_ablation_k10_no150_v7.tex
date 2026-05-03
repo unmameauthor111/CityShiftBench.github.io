@@ -1,0 +1,22 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Scale-122 SATCA ablations at $k=10$. Ablation variants are nearly tied with the full probe, so the paper does not claim isolated mechanism validation.}
+\label{tab:scale122-satca-ablation-v7}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{llllllll}
+\toprule
+Target & Variant & Cities & $R^2$ & Full $-$ variant & RMSE & MAE & Neg. $R^2$ \\
+\midrule
+Connectivity & SATCA-source & 118 & 0.463 & +0.120 & 8.394 & 5.722 & 0.042 \\
+Connectivity & No shift term & 118 & 0.584 & -0.001 & 6.947 & 4.713 & 0.008 \\
+Connectivity & No uncertainty term & 118 & 0.585 & -0.001 & 6.970 & 4.711 & 0.008 \\
+Connectivity & Full SATCA & 118 & 0.584 & +0.000 & 6.946 & 4.714 & 0.008 \\
+Road & SATCA-source & 118 & 0.398 & +0.116 & 189.317 & 132.118 & 0.127 \\
+Road & No shift term & 118 & 0.514 & -0.000 & 171.418 & 120.079 & 0.034 \\
+Road & No uncertainty term & 118 & 0.514 & -0.001 & 171.449 & 119.755 & 0.034 \\
+Road & Full SATCA & 118 & 0.514 & +0.000 & 171.355 & 120.086 & 0.034 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}

@@ -1,0 +1,28 @@
+\begin{table*}[t]
+\centering
+\small
+\caption{Audited-9 baseline suite at $k=10$. This slice is used as a protocol sanity check, not as headline inference.}
+\label{tab:audited9-baseline-suite}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllllll}
+\toprule
+Target & Method & $R^2$ & RMSE & MAE & Neg. $R^2$ & +/- cities \\
+\midrule
+Connectivity & SATCA & 0.443 & 11.110 & 6.875 & 0.111 & 8/1 \\
+Connectivity & Importance-weighted ridge & -0.319 & 13.710 & 8.947 & 0.667 & 3/6 \\
+Connectivity & Tabular kNN & -0.741 & 14.818 & 9.009 & 0.667 & 3/6 \\
+Connectivity & Pooled ridge & -1.611 & 15.102 & 10.277 & 0.667 & 3/6 \\
+Connectivity & Source-only ridge & -1.920 & 15.744 & 10.832 & 0.667 & 3/6 \\
+Connectivity & Target-only ridge & -3.267 & 14.660 & 9.468 & 0.556 & 4/5 \\
+Connectivity & CORAL ridge & -27.092 & 17.544 & 11.780 & 0.667 & 3/6 \\
+Road & SATCA & 0.351 & 210.734 & 139.269 & 0.111 & 8/1 \\
+Road & Importance-weighted ridge & -0.100 & 260.001 & 170.441 & 0.444 & 5/4 \\
+Road & Target-only ridge & -0.285 & 289.592 & 200.858 & 0.778 & 2/7 \\
+Road & Tabular kNN & -0.366 & 297.150 & 195.637 & 0.556 & 4/5 \\
+Road & Pooled ridge & -0.540 & 274.336 & 181.475 & 0.444 & 5/4 \\
+Road & Source-only ridge & -0.731 & 283.984 & 191.485 & 0.444 & 5/4 \\
+Road & CORAL ridge & -2.559 & 346.924 & 257.900 & 0.667 & 3/6 \\
+\bottomrule
+\end{tabular}
+}%
+\end{table*}
